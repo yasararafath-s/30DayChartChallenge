@@ -1,0 +1,11 @@
+cause,level1_category,deaths_millions,share_pct,share_pct_rounded
+Cardiovascular diseases,NCD,19.4,28.6,29
+Neoplasms (Cancers),NCD,9.9,14.6,15
+Respiratory infections incl. COVID-19,CMNN,7.5,11.0,11
+Chronic respiratory diseases,NCD,4.4,6.5,6
+Diabetes & kidney diseases,NCD,3.1,4.6,5
+Neurological disorders,NCD,3.0,4.4,4
+Digestive diseases,NCD,2.6,3.8,4
+Injuries,Injuries,4.0,5.9,6
+Neonatal disorders,CMNN,2.0,2.9,3
+Other causes,Mixed,12.0,17.7,17

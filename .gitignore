@@ -1,0 +1,39 @@
+# R specific
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Environment
+.Renviron
+.Rprofile
+
+# Byte-compiled / optimized
+*.pyc
+__pycache__/
+
+# Claude
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Large data files (uncomment if needed)
+# data/*.csv
+# data/*.xlsx
+# data/*.json
+
+# Temporary files
+*.tmp
+*.log
