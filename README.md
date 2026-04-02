@@ -39,7 +39,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | Day |  Date  | Prompt                                       | Chart        | Data                                                                    | Status |
 | :-: | :----: | :------------------------------------------- | :----------- | :---------------------------------------------------------------------- | :----: |
 | 01 | Apr 01 | **Part-to-Whole**                      | Waffle Chart | [GBD 2021 — IHME](https://ghdx.healthdata.org/) · Global deaths by cause |   ✅   |
-| 02 | Apr 02 | **Pictogram**                          |              |                                                                         |   ⬜   |
+| 02 | Apr 02 | **Pictogram**                          | Pictogram    | [WHO via WPR](https://worldpopulationreview.com/country-rankings/smoking-rates-by-country) · Smoking by gender |   ✅   |
 | 03 | Apr 03 | **Mosaic**                             |              |                                                                         |   ⬜   |
 | 04 | Apr 04 | **Slope**                              |              |                                                                         |   ⬜   |
 | 05 | Apr 05 | **Experimental**                       |              |                                                                         |   ⬜   |
