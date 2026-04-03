@@ -1,0 +1,21 @@
+income_group,cause,deaths,share_of_income_group
+Low income,Cardiovascular diseases,852522,16.4
+Low income,Cancers,343185,6.6
+Low income,Other NCDs,778830,15.0
+Low income,Infectious & maternal,2566979,49.5
+Low income,Injuries,648448,12.5
+Lower-middle income,Cardiovascular diseases,5462434,22.6
+Lower-middle income,Cancers,2014274,8.3
+Lower-middle income,Other NCDs,4697362,19.5
+Lower-middle income,Infectious & maternal,9221016,38.2
+Lower-middle income,Injuries,2744089,11.4
+Upper-middle income,Cardiovascular diseases,8337216,35.0
+Upper-middle income,Cancers,4244547,17.8
+Upper-middle income,Other NCDs,4978107,20.9
+Upper-middle income,Infectious & maternal,4292901,18.0
+Upper-middle income,Injuries,1992019,8.4
+High income,Cardiovascular diseases,4445092,30.2
+High income,Cancers,3116899,21.2
+High income,Other NCDs,3750851,25.5
+High income,Infectious & maternal,2527995,17.2
+High income,Injuries,890365,6.0
