@@ -41,7 +41,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 01 | Apr 01 | **Part-to-Whole**                      | Waffle Chart | [GBD 2021 — IHME](https://ghdx.healthdata.org/) · Global deaths by cause |   ✅   |
 | 02 | Apr 02 | **Pictogram**                          | Pictogram    | [WHO via WPR](https://worldpopulationreview.com/country-rankings/smoking-rates-by-country) · Smoking by gender |   ✅   |
 | 03 | Apr 03 | **Mosaic**                             | Mosaic       | [WHO GHE 2021](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death) · Deaths by cause & income |   ✅   |
-| 04 | Apr 04 | **Slope**                              |              |                                                                         |   ⬜   |
+| 04 | Apr 04 | **Slope**                              | Slope        | [World Bank](https://data.worldbank.org/indicator/SH.PRV.SMOK) · Tobacco use 2010 vs 2022 |   ✅   |
 | 05 | Apr 05 | **Experimental**                       |              |                                                                         |   ⬜   |
 | 06 | Apr 06 | **FlowingData Theme Day**              |              |                                                                         |   ⬜   |
 
