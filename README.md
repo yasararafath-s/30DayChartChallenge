@@ -43,7 +43,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 03 | Apr 03 | **Mosaic**                             | Mosaic       | [WHO GHE 2021](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death) · Deaths by cause & income |   ✅   |
 | 04 | Apr 04 | **Slope**                              | Slope        | [World Bank](https://data.worldbank.org/indicator/SH.PRV.SMOK) · Tobacco use 2010 vs 2022 |   ✅   |
 | 05 | Apr 05 | **Experimental**                       | Dumbbell     | [WHO via WPR](https://worldpopulationreview.com/country-rankings/smoking-rates-by-country) · Smoking gender gap |   ✅   |
-| 06 | Apr 06 | **FlowingData Theme Day**              |              |                                                                         |   ⬜   |
+| 06 | Apr 06 | **Reporters Without Borders Data Day** | Bar Chart    | [RSF](https://rsf.org/en/index) · World Press Freedom Index 2025 |   ✅   |
 
 ### 📊 Distributions (Days 7–12)
 
@@ -54,7 +54,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 09 | Apr 09 | **Wealth**                |       |      |   ⬜   |
 | 10 | Apr 10 | **Pop Culture**           |       |      |   ⬜   |
 | 11 | Apr 11 | **Physical**              |       |      |   ⬜   |
-| 12 | Apr 12 | **Reporters Without Borders Data Day** |       |      |   ⬜   |
+| 12 | Apr 12 | **FlowingData Theme Day**              |       |      |   ⬜   |
 
 ### 🔗 Relationships (Days 13–18)
 
@@ -65,7 +65,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 15 | Apr 15 | **Correlation**     |       |      |   ⬜   |
 | 16 | Apr 16 | **Causation**       |       |      |   ⬜   |
 | 17 | Apr 17 | **Remake**          |       |      |   ⬜   |
-| 18 | Apr 18 | **South China Morning Post Theme Day** |       |      |   ⬜   |
+| 18 | Apr 18 | **UNICEF Data Day**                    |       |      |   ⬜   |
 
 ### 🌐 Timeseries (Days 19–24)
 
@@ -76,7 +76,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 21 | Apr 21 | **Historical**                         |       |      |   ⬜   |
 | 22 | Apr 22 | **New Tool**                           |       |      |   ⬜   |
 | 23 | Apr 23 | **Seasons**                            |       |      |   ⬜   |
-| 24 | Apr 24 | **UNICEF Data Day**                    |       |      |   ⬜   |
+| 24 | Apr 24 | **South China Morning Post Theme Day** |       |      |   ⬜   |
 
 ### ❓ Uncertainties (Days 25–30)
 

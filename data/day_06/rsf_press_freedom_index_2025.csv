@@ -1,0 +1,17 @@
+rank,country,score,zone
+1,Norway,92.31,Good
+5,Finland,87.18,Good
+11,Germany,83.85,Satisfactory
+20,United Kingdom,78.89,Satisfactory
+25,France,76.62,Satisfactory
+29,Australia,75.15,Satisfactory
+57,United States,65.49,Problematic
+63,Brazil,63.80,Problematic
+66,Japan,63.14,Problematic
+151,India,32.96,Very serious
+171,Russia,24.57,Very serious
+173,Vietnam,19.74,Very serious
+176,Iran,16.22,Very serious
+178,China,14.80,Very serious
+179,North Korea,12.64,Very serious
+180,Eritrea,11.32,Very serious
