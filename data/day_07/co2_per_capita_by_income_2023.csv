@@ -1,0 +1,192 @@
+country,iso,co2_per_capita,income_group,continent
+Afghanistan,AFG,0.25,Low income,Asia
+Albania,ALB,1.57,Upper middle income,Europe
+Algeria,DZA,4.39,Upper middle income,Africa
+Andorra,AND,5.17,High income,Europe
+Angola,AGO,0.59,Lower middle income,Africa
+Antigua and Barbuda,ATG,6.86,High income,Americas
+Argentina,ARG,3.92,Upper middle income,Americas
+Armenia,ARM,2.52,Upper middle income,Europe
+Australia,AUS,14.53,High income,Asia
+Austria,AUT,6.23,High income,Europe
+Azerbaijan,AZE,4.14,Upper middle income,Europe
+Bahamas,BHS,7.4,High income,Americas
+Bahrain,BHR,24.71,High income,Middle East
+Bangladesh,BGD,0.61,Lower middle income,Asia
+Barbados,BRB,4.66,High income,Americas
+Belarus,BLR,6.11,Upper middle income,Europe
+Belgium,BEL,7.23,High income,Europe
+Belize,BLZ,1.86,Upper middle income,Americas
+Benin,BEN,0.42,Lower middle income,Africa
+Bhutan,BTN,2.07,Lower middle income,Asia
+Bolivia,BOL,2.01,Lower middle income,Americas
+Bosnia and Herzegovina,BIH,6.24,Upper middle income,Europe
+Botswana,BWA,2.92,Upper middle income,Africa
+Brazil,BRA,2.29,Upper middle income,Americas
+Brunei,BRN,27.24,High income,Asia
+Bulgaria,BGR,5.08,High income,Europe
+Burkina Faso,BFA,0.27,Low income,Africa
+Burundi,BDI,0.07,Low income,Africa
+Cambodia,KHM,1.23,Lower middle income,Asia
+Cameroon,CMR,0.34,Lower middle income,Africa
+Canada,CAN,13.88,High income,Americas
+Cape Verde,CPV,1.09,Upper middle income,Africa
+Central African Republic,CAF,0.08,Low income,Africa
+Chad,TCD,0.15,Low income,Africa
+Chile,CHL,3.95,High income,Americas
+China,CHN,8.56,Upper middle income,Asia
+Colombia,COL,1.72,Upper middle income,Americas
+Comoros,COM,0.64,Lower middle income,Africa
+Congo,COG,1.34,Lower middle income,Africa
+Costa Rica,CRI,1.66,High income,Americas
+Cote d'Ivoire,CIV,0.45,Lower middle income,Africa
+Croatia,HRV,4.74,High income,Europe
+Cuba,CUB,2.13,Upper middle income,Americas
+Cyprus,CYP,5.34,High income,Europe
+Czechia,CZE,7.7,High income,Europe
+Democratic Republic of Congo,COD,0.06,Low income,Africa
+Denmark,DNK,4.85,High income,Europe
+Djibouti,DJI,0.48,Lower middle income,Africa
+Dominica,DMA,2.47,Upper middle income,Americas
+Dominican Republic,DOM,2.81,Upper middle income,Americas
+East Timor,TLS,0.46,Lower middle income,Asia
+Ecuador,ECU,2.48,Upper middle income,Americas
+Egypt,EGY,2.19,Lower middle income,Africa
+El Salvador,SLV,1.37,Upper middle income,Americas
+Equatorial Guinea,GNQ,3.74,Upper middle income,Africa
+Eritrea,ERI,0.21,Low income,Africa
+Estonia,EST,6.4,High income,Europe
+Eswatini,SWZ,0.84,Lower middle income,Africa
+Ethiopia,ETH,0.14,Low income,Africa
+Fiji,FJI,1.5,Upper middle income,Asia
+Finland,FIN,5.68,High income,Europe
+France,FRA,4.07,High income,Europe
+Gabon,GAB,2.14,Upper middle income,Africa
+Gambia,GMB,0.29,Low income,Africa
+Georgia,GEO,3.13,Upper middle income,Europe
+Germany,DEU,7.02,High income,Europe
+Ghana,GHA,0.6,Lower middle income,Africa
+Greece,GRC,5.08,High income,Europe
+Grenada,GRD,3.1,Upper middle income,Americas
+Guatemala,GTM,1.09,Upper middle income,Americas
+Guinea,GIN,0.27,Lower middle income,Africa
+Guinea-Bissau,GNB,0.15,Low income,Africa
+Guyana,GUY,5.3,High income,Americas
+Haiti,HTI,0.25,Lower middle income,Americas
+Honduras,HND,1.17,Lower middle income,Americas
+Hungary,HUN,4.17,High income,Europe
+Iceland,ISL,9.05,High income,Europe
+India,IND,2.13,Lower middle income,Asia
+Indonesia,IDN,2.71,Upper middle income,Asia
+Iran,IRN,8.71,Upper middle income,Middle East
+Iraq,IRQ,5.06,Upper middle income,Middle East
+Ireland,IRL,6.46,High income,Europe
+Israel,ISR,5.98,High income,Middle East
+Italy,ITA,5.25,High income,Europe
+Jamaica,JAM,2.84,Upper middle income,Americas
+Japan,JPN,7.93,High income,Asia
+Jordan,JOR,2.02,Lower middle income,Middle East
+Kazakhstan,KAZ,14.08,Upper middle income,Europe
+Kenya,KEN,0.38,Lower middle income,Africa
+Kiribati,KIR,0.52,Lower middle income,Asia
+Kuwait,KWT,25.45,High income,Middle East
+Kyrgyzstan,KGZ,1.58,Lower middle income,Europe
+Laos,LAO,3.15,Lower middle income,Asia
+Latvia,LVA,3.5,High income,Europe
+Lebanon,LBN,2.69,Lower middle income,Middle East
+Lesotho,LSO,1.08,Lower middle income,Africa
+Liberia,LBR,0.15,Low income,Africa
+Libya,LBY,8.79,Upper middle income,Africa
+Liechtenstein,LIE,3.31,High income,Europe
+Lithuania,LTU,4.38,High income,Europe
+Luxembourg,LUX,10.29,High income,Europe
+Madagascar,MDG,0.14,Low income,Africa
+Malawi,MWI,0.09,Low income,Africa
+Malaysia,MYS,7.87,Upper middle income,Asia
+Maldives,MDV,4.19,Upper middle income,Asia
+Mali,MLI,0.28,Low income,Africa
+Malta,MLT,3.32,High income,Europe
+Marshall Islands,MHL,3.8,Upper middle income,Asia
+Mauritania,MRT,1.0,Lower middle income,Africa
+Mauritius,MUS,3.6,Upper middle income,Africa
+Mexico,MEX,3.53,Upper middle income,Americas
+Micronesia (country),FSM,1.28,Lower middle income,Asia
+Moldova,MDA,1.74,Upper middle income,Europe
+Mongolia,MNG,12.87,Upper middle income,Asia
+Montenegro,MNE,3.8,Upper middle income,Europe
+Morocco,MAR,1.83,Lower middle income,Africa
+Mozambique,MOZ,0.27,Low income,Africa
+Myanmar,MMR,0.59,Lower middle income,Asia
+Namibia,NAM,1.16,Lower middle income,Africa
+Nauru,NRU,4.93,High income,Asia
+Nepal,NPL,0.62,Lower middle income,Asia
+Netherlands,NLD,6.47,High income,Europe
+New Zealand,NZL,6.1,High income,Asia
+Nicaragua,NIC,0.8,Lower middle income,Americas
+Niger,NER,0.12,Low income,Africa
+Nigeria,NGA,0.57,Lower middle income,Africa
+North Korea,PRK,2.35,Low income,Asia
+North Macedonia,MKD,4.01,Upper middle income,Europe
+Norway,NOR,7.04,High income,Europe
+Oman,OMN,15.81,High income,Middle East
+Pakistan,PAK,0.76,Lower middle income,Asia
+Palau,PLW,12.18,High income,Asia
+Panama,PAN,2.92,High income,Americas
+Papua New Guinea,PNG,0.8,Lower middle income,Asia
+Paraguay,PRY,1.12,Upper middle income,Americas
+Peru,PER,1.95,Upper middle income,Americas
+Philippines,PHL,1.4,Lower middle income,Asia
+Poland,POL,7.31,High income,Europe
+Portugal,PRT,3.61,High income,Europe
+Qatar,QAT,40.13,High income,Middle East
+Romania,ROU,3.55,High income,Europe
+Russia,RUS,11.92,High income,Europe
+Rwanda,RWA,0.14,Low income,Africa
+Saint Kitts and Nevis,KNA,5.35,High income,Americas
+Saint Lucia,LCA,2.88,Upper middle income,Americas
+Saint Vincent and the Grenadines,VCT,2.43,Upper middle income,Americas
+Samoa,WSM,1.08,Upper middle income,Asia
+Sao Tome and Principe,STP,0.61,Lower middle income,Africa
+Saudi Arabia,SAU,20.36,High income,Middle East
+Senegal,SEN,0.78,Lower middle income,Africa
+Serbia,SRB,6.33,Upper middle income,Europe
+Seychelles,SYC,5.01,High income,Africa
+Sierra Leone,SLE,0.16,Low income,Africa
+Singapore,SGP,8.82,High income,Asia
+Slovakia,SVK,5.58,High income,Europe
+Slovenia,SVN,5.67,High income,Europe
+Solomon Islands,SLB,0.35,Lower middle income,Asia
+Somalia,SOM,0.07,Low income,Africa
+South Africa,ZAF,6.91,Upper middle income,Africa
+South Korea,KOR,11.38,High income,Asia
+South Sudan,SSD,0.14,Low income,Africa
+Spain,ESP,4.5,High income,Europe
+Sri Lanka,LKA,0.83,Lower middle income,Asia
+Sudan,SDN,0.35,Low income,Africa
+Suriname,SUR,4.56,Upper middle income,Americas
+Sweden,SWE,3.48,High income,Europe
+Switzerland,CHE,3.6,High income,Europe
+Syria,SYR,1.34,Low income,Middle East
+Tajikistan,TJK,0.99,Lower middle income,Europe
+Tanzania,TZA,0.3,Lower middle income,Africa
+Thailand,THA,3.69,Upper middle income,Asia
+Togo,TGO,0.29,Low income,Africa
+Tonga,TON,1.39,Upper middle income,Asia
+Trinidad and Tobago,TTO,23.64,High income,Americas
+Tunisia,TUN,2.6,Lower middle income,Africa
+Turkey,TUR,5.58,Upper middle income,Europe
+Turkmenistan,TKM,12.96,Upper middle income,Europe
+Tuvalu,TUV,1.11,Upper middle income,Asia
+Uganda,UGA,0.13,Low income,Africa
+Ukraine,UKR,3.69,Upper middle income,Europe
+United Arab Emirates,ARE,19.77,High income,Middle East
+United Kingdom,GBR,4.48,High income,Europe
+United States,USA,14.32,High income,Americas
+Uruguay,URY,2.25,High income,Americas
+Uzbekistan,UZB,3.45,Lower middle income,Europe
+Vanuatu,VUT,0.59,Lower middle income,Asia
+Venezuela,VEN,4.23,Upper middle income,Americas
+Vietnam,VNM,3.46,Lower middle income,Asia
+Yemen,YEM,0.26,Low income,Middle East
+Zambia,ZMB,0.57,Lower middle income,Africa
+Zimbabwe,ZWE,0.82,Lower middle income,Africa

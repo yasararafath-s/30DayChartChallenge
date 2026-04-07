@@ -49,7 +49,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 
 | Day |  Date  | Prompt                          | Chart | Data | Status |
 | :-: | :----: | :------------------------------ | :---- | :--- | :----: |
-| 07 | Apr 07 | **Multiscale**            |       |      |   ⬜   |
+| 07 | Apr 07 | **Multiscale**            | Bar (log) | [Global Carbon Project](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita) · CO2 per capita |   ✅   |
 | 08 | Apr 08 | **Circular**              |       |      |   ⬜   |
 | 09 | Apr 09 | **Wealth**                |       |      |   ⬜   |
 | 10 | Apr 10 | **Pop Culture**           |       |      |   ⬜   |
