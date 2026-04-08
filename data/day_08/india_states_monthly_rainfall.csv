@@ -1,0 +1,49 @@
+state,month,month_num,rainfall_mm
+Assam & Meghalaya,Jan,1,14.1
+Assam & Meghalaya,Feb,2,29.2
+Assam & Meghalaya,Mar,3,72.3
+Assam & Meghalaya,Apr,4,202.5
+Assam & Meghalaya,May,5,303.8
+Assam & Meghalaya,Jun,6,468.7
+Assam & Meghalaya,Jul,7,516.3
+Assam & Meghalaya,Aug,8,392.2
+Assam & Meghalaya,Sep,9,307.8
+Assam & Meghalaya,Oct,10,150.1
+Assam & Meghalaya,Nov,11,24.7
+Assam & Meghalaya,Dec,12,10.7
+Kerala,Jan,1,8.3
+Kerala,Feb,2,13.9
+Kerala,Mar,3,33.7
+Kerala,Apr,4,105.8
+Kerala,May,5,208.9
+Kerala,Jun,6,629.9
+Kerala,Jul,7,624.0
+Kerala,Aug,8,411.0
+Kerala,Sep,9,254.8
+Kerala,Oct,10,286.7
+Kerala,Nov,11,155.7
+Kerala,Dec,12,34.3
+Tamil Nadu,Jan,1,12.8
+Tamil Nadu,Feb,2,12.5
+Tamil Nadu,Mar,3,19.7
+Tamil Nadu,Apr,4,38.7
+Tamil Nadu,May,5,65.8
+Tamil Nadu,Jun,6,54.0
+Tamil Nadu,Jul,7,69.9
+Tamil Nadu,Aug,8,91.6
+Tamil Nadu,Sep,9,118.2
+Tamil Nadu,Oct,10,172.7
+Tamil Nadu,Nov,11,179.3
+Tamil Nadu,Dec,12,84.7
+Rajasthan,Jan,1,3.7
+Rajasthan,Feb,2,5.2
+Rajasthan,Mar,3,3.7
+Rajasthan,Apr,4,4.5
+Rajasthan,May,5,11.6
+Rajasthan,Jun,6,52.2
+Rajasthan,Jul,7,165.0
+Rajasthan,Aug,8,155.2
+Rajasthan,Sep,9,61.1
+Rajasthan,Oct,10,9.8
+Rajasthan,Nov,11,4.2
+Rajasthan,Dec,12,2.0
