@@ -1,0 +1,1178 @@
+show,season,episode,name,rating
+Breaking Bad,1,1,Pilot,8.2
+Breaking Bad,1,2,Cat's in the Bag...,7.9
+Breaking Bad,1,3,...and the Bag's in the River,8.1
+Breaking Bad,1,4,Cancer Man,7.5
+Breaking Bad,1,5,Gray Matter,7.7
+Breaking Bad,1,6,Crazy Handful of Nothin',8.8
+Breaking Bad,1,7,A No-Rough-Stuff-Type Deal,8
+Breaking Bad,2,1,Seven Thirty-Seven,7.9
+Breaking Bad,2,2,Grilled,8.3
+Breaking Bad,2,3,Bit by a Dead Bee,7.9
+Breaking Bad,2,4,Down,7.5
+Breaking Bad,2,5,Breakage,7.9
+Breaking Bad,2,6,Peekaboo,8.2
+Breaking Bad,2,7,Negro Y Azul,8.1
+Breaking Bad,2,8,Better Call Saul,8.7
+Breaking Bad,2,9,4 Days Out,8.4
+Breaking Bad,2,10,Over,8
+Breaking Bad,2,11,Mandala,8
+Breaking Bad,2,12,Phoenix,8.8
+Breaking Bad,2,13,ABQ,8.3
+Breaking Bad,3,1,No Más,7.8
+Breaking Bad,3,2,Caballo sin Nombre,8
+Breaking Bad,3,3,I.F.T.,7.9
+Breaking Bad,3,4,Green Light,7.9
+Breaking Bad,3,5,Más,8.1
+Breaking Bad,3,6,Sunset,8.8
+Breaking Bad,3,7,One Minute,9.2
+Breaking Bad,3,8,I See You,7.9
+Breaking Bad,3,9,Kafkaesque,7.9
+Breaking Bad,3,10,Fly,7.3
+Breaking Bad,3,11,Abiquiu,7.9
+Breaking Bad,3,12,Half Measures,9.2
+Breaking Bad,3,13,Full Measure,9.1
+Breaking Bad,4,1,Box Cutter,8.2
+Breaking Bad,4,2,Thirty-Eight Snub,7.8
+Breaking Bad,4,3,Open House,7.3
+Breaking Bad,4,4,Bullet Points,7.8
+Breaking Bad,4,5,Shotgun,7.7
+Breaking Bad,4,6,Cornered,7.8
+Breaking Bad,4,7,Problem Dog,8.2
+Breaking Bad,4,8,Hermanos,8.3
+Breaking Bad,4,9,Bug,8.2
+Breaking Bad,4,10,Salud,9.1
+Breaking Bad,4,11,Crawl Space,9
+Breaking Bad,4,12,End Times,9
+Breaking Bad,4,13,Face Off,9.1
+Breaking Bad,5,1,Live Free or Die,7.7
+Breaking Bad,5,2,Madrigal,7.8
+Breaking Bad,5,3,Hazard Pay,7.6
+Breaking Bad,5,4,Fifty-One,7.4
+Breaking Bad,5,5,Dead Freight,8.3
+Breaking Bad,5,6,Buyout,7.8
+Breaking Bad,5,7,Say My Name,8.3
+Breaking Bad,5,8,Gliding Over All,8.9
+Breaking Bad,5,9,Blood Money,8.3
+Breaking Bad,5,10,Buried,7.9
+Breaking Bad,5,11,Confessions,8.1
+Breaking Bad,5,12,Rabid Dog,7.3
+Breaking Bad,5,13,To'hajiilee,8.3
+Breaking Bad,5,14,Ozymandias,9.1
+Breaking Bad,5,15,Granite State,8.2
+Breaking Bad,5,16,Felina,8
+Game of Thrones,1,1,Winter is Coming,8.2
+Game of Thrones,1,2,The Kingsroad,8.2
+Game of Thrones,1,3,Lord Snow,8
+Game of Thrones,1,4,"Cripples, Bastards, and Broken Things",8.2
+Game of Thrones,1,5,The Wolf and the Lion,8.5
+Game of Thrones,1,6,A Golden Crown,8.6
+Game of Thrones,1,7,You Win or You Die,8.8
+Game of Thrones,1,8,The Pointy End,8.2
+Game of Thrones,1,9,Baelor,8.9
+Game of Thrones,1,10,Fire and Blood,8.9
+Game of Thrones,2,1,The North Remembers,8.2
+Game of Thrones,2,2,The Night Lands,7.8
+Game of Thrones,2,3,What is Dead May Never Die,8.2
+Game of Thrones,2,4,Garden of Bones,8.2
+Game of Thrones,2,5,The Ghost of Harrenhal,7.9
+Game of Thrones,2,6,The Old Gods and the New,8.8
+Game of Thrones,2,7,A Man Without Honor,8.2
+Game of Thrones,2,8,The Prince of Winterfell,8.3
+Game of Thrones,2,9,Blackwater,9.2
+Game of Thrones,2,10,Valar Morghulis,9
+Game of Thrones,3,1,Valar Dohaeris,7.9
+Game of Thrones,3,2,"Dark Wings, Dark Words",7.9
+Game of Thrones,3,3,Walk of Punishment,8.3
+Game of Thrones,3,4,And Now His Watch is Ended,8.9
+Game of Thrones,3,5,Kissed by Fire,8.7
+Game of Thrones,3,6,The Climb,8.3
+Game of Thrones,3,7,The Bear and the Maiden Fair,7.9
+Game of Thrones,3,8,Second Sons,8.6
+Game of Thrones,3,9,The Rains of Castamere,9.1
+Game of Thrones,3,10,Mhysa,8
+Game of Thrones,4,1,Two Swords,8.2
+Game of Thrones,4,2,The Lion and the Rose,9
+Game of Thrones,4,3,Breaker of Chains,7.9
+Game of Thrones,4,4,Oathkeeper,7.9
+Game of Thrones,4,5,First of His Name,7.8
+Game of Thrones,4,6,The Laws of Gods and Men,8.3
+Game of Thrones,4,7,Mockingbird,8.2
+Game of Thrones,4,8,The Mountain and the Viper,8.8
+Game of Thrones,4,9,The Watchers on the Wall,8.7
+Game of Thrones,4,10,The Children,8.3
+Game of Thrones,5,1,The Wars to Come,7.6
+Game of Thrones,5,2,The House of Black and White,7.6
+Game of Thrones,5,3,High Sparrow,7.6
+Game of Thrones,5,4,Sons of the Harpy,7.4
+Game of Thrones,5,5,Kill the Boy,7.6
+Game of Thrones,5,6,"Unbowed, Unbent, Unbroken",7
+Game of Thrones,5,7,The Gift,7.9
+Game of Thrones,5,8,Hardhome,8.8
+Game of Thrones,5,9,The Dance of Dragons,7.9
+Game of Thrones,5,10,Mother's Mercy,7.9
+Game of Thrones,6,1,The Red Woman,7.4
+Game of Thrones,6,2,Home,7.8
+Game of Thrones,6,3,Oathbreaker,7.4
+Game of Thrones,6,4,Book of the Stranger,7.8
+Game of Thrones,6,5,The Door,7.9
+Game of Thrones,6,6,Blood of My Blood,7.5
+Game of Thrones,6,7,The Broken Man,7.5
+Game of Thrones,6,8,No One,7.2
+Game of Thrones,6,9,Battle of the Bastards,8.4
+Game of Thrones,6,10,The Winds of Winter,8.9
+Game of Thrones,7,1,Dragonstone,7.3
+Game of Thrones,7,2,Stormborn,7.5
+Game of Thrones,7,3,The Queen's Justice,7.7
+Game of Thrones,7,4,The Spoils of War,8.1
+Game of Thrones,7,5,Eastwatch,7.6
+Game of Thrones,7,6,Beyond the Wall,8
+Game of Thrones,7,7,The Dragon and the Wolf,8.1
+Game of Thrones,8,1,Winterfell,7
+Game of Thrones,8,2,A Knight of the Seven Kingdoms,7
+Game of Thrones,8,3,The Long Night,7.2
+Game of Thrones,8,4,The Last of the Starks,6.1
+Game of Thrones,8,5,The Bells,6.2
+Game of Thrones,8,6,The Iron Throne,5.3
+The Office,1,1,Pilot,7.6
+The Office,1,2,Diversity Day,8.1
+The Office,1,3,Health Care,7.9
+The Office,1,4,The Alliance,8
+The Office,1,5,Basketball,8.4
+The Office,1,6,Hot Girl,8.1
+The Office,2,1,The Dundies,8.1
+The Office,2,2,Sexual Harassment,8.2
+The Office,2,3,Office Olympics,8.3
+The Office,2,4,The Fire,8.4
+The Office,2,5,Halloween,8.3
+The Office,2,6,The Fight,8.3
+The Office,2,7,The Client,8.5
+The Office,2,8,Performance Review,8.5
+The Office,2,9,E-Mail Surveillance,8.7
+The Office,2,10,Christmas Party,8.5
+The Office,2,11,Booze Cruise,8.5
+The Office,2,12,The Injury,8.4
+The Office,2,13,The Secret,7.9
+The Office,2,14,The Carpet,8
+The Office,2,15,Boys and Girls,8.6
+The Office,2,16,Valentine's Day,8.2
+The Office,2,17,Dwight's Speech,8.4
+The Office,2,18,Take Your Daughter to Work Day,8.1
+The Office,2,19,Michael's Birthday,8.4
+The Office,2,20,Drug Testing,8.2
+The Office,2,21,Conflict Resolution,8.4
+The Office,2,22,Casino Night,9.3
+The Office,3,1,Gay Witch Hunt,8.7
+The Office,3,2,The Convention,8.3
+The Office,3,3,The Coup,8.2
+The Office,3,4,Grief Counseling,8
+The Office,3,5,Initiation,8
+The Office,3,6,Diwali,8.1
+The Office,3,7,Branch Closing,8.3
+The Office,3,8,The Merger,8.5
+The Office,3,9,The Convict,8
+The Office,3,10,A Benihana Christmas (1),8.5
+The Office,3,11,A Benihana Christmas (2),8.5
+The Office,3,12,Back from Vacation,8.6
+The Office,3,13,Traveling Salesmen,8.1
+The Office,3,14,The Return,8.3
+The Office,3,15,Ben Franklin,8.3
+The Office,3,16,Phyllis' Wedding,8.3
+The Office,3,17,Business School,8.5
+The Office,3,18,Cocktails,8.5
+The Office,3,19,The Negotiation,8.5
+The Office,3,20,Safety Training,8.3
+The Office,3,21,Product Recall,8.1
+The Office,3,22,Women's Appreciation,8.7
+The Office,3,23,Beach Games,8.6
+The Office,3,24,The Job (1),8.9
+The Office,3,25,The Job (2),9.3
+The Office,4,1,Fun Run (1),8
+The Office,4,2,Fun Run (2),8.1
+The Office,4,3,Dunder Mifflin Infinity (1),8.2
+The Office,4,4,Dunder Mifflin Infinity (2),8.3
+The Office,4,5,Launch Party (1),8.4
+The Office,4,6,Launch Party (2),8.2
+The Office,4,7,Money (1),8.1
+The Office,4,8,Money (2),8.1
+The Office,4,9,Local Ad,8.2
+The Office,4,10,Branch Wars,7.8
+The Office,4,11,Survivor Man,7.8
+The Office,4,12,The Deposition,7.8
+The Office,4,13,Dinner Party,8.8
+The Office,4,14,Chair Model,8
+The Office,4,15,Night Out,8.2
+The Office,4,16,Did I Stutter?,7.9
+The Office,4,17,Job Fair,7.7
+The Office,4,18,"Goodbye, Toby (1)",8.3
+The Office,4,19,"Goodbye, Toby (2)",9
+The Office,5,1,Weight Loss (1),8.3
+The Office,5,2,Weight Loss (2),8.3
+The Office,5,3,Business Ethics,7.7
+The Office,5,4,Baby Shower,7.8
+The Office,5,5,Crime Aid,8
+The Office,5,6,Employee Transfer,8.2
+The Office,5,7,Customer Survey,8.4
+The Office,5,8,Business Trip,8.3
+The Office,5,9,Frame Toby,8.7
+The Office,5,10,The Surplus,8.2
+The Office,5,11,Moroccan Christmas,8.3
+The Office,5,12,The Duel,8.1
+The Office,5,13,Prince Family Paper,8.6
+The Office,5,14,Stress Relief (1),8.1
+The Office,5,15,Stress Relief (2),7.7
+The Office,5,16,Lecture Circuit (1),8.3
+The Office,5,17,Lecture Circuit (2),8.4
+The Office,5,18,Blood Drive,7.9
+The Office,5,19,Golden Ticket,8.1
+The Office,5,20,New Boss,8.1
+The Office,5,21,Two Weeks,8.1
+The Office,5,22,Dream Team,8.4
+The Office,5,23,The Michael Scott Paper Company,8.7
+The Office,5,24,Heavy Competition,8.1
+The Office,5,25,Broke,8.8
+The Office,5,26,Casual Friday,8.3
+The Office,5,27,Cafe Disco,8.7
+The Office,5,28,Company Picnic,9
+The Office,6,1,Gossip,8
+The Office,6,2,The Meeting,8.1
+The Office,6,3,The Promotion,7.4
+The Office,6,4,Niagara (1),9
+The Office,6,5,Niagara (2),8.9
+The Office,6,6,Mafia,7.8
+The Office,6,7,The Lover,7.7
+The Office,6,8,Koi Pond,8
+The Office,6,9,Double Date,8.1
+The Office,6,10,Murder,8.1
+The Office,6,11,Shareholder Meeting,8.2
+The Office,6,12,Scott's Tots,8.5
+The Office,6,13,Secret Santa,7.3
+The Office,6,14,The Banker,7.4
+The Office,6,15,Sabre,7.7
+The Office,6,16,The Manager and the Salesman,8.1
+The Office,6,17,The Delivery (1),8.2
+The Office,6,18,The Delivery (2),8
+The Office,6,19,St. Patrick's Day,7.6
+The Office,6,20,New Leads,7.7
+The Office,6,21,Happy Hour,8.1
+The Office,6,22,Secretary's Day,8.5
+The Office,6,23,Body Language,8.1
+The Office,6,24,The Cover-Up,8.2
+The Office,6,25,The Chump,8
+The Office,6,26,Whistleblower,8
+The Office,7,1,Nepotism,8.2
+The Office,7,2,Counseling,7.4
+The Office,7,3,Andy's Play,8.1
+The Office,7,4,Sex Ed,7.9
+The Office,7,5,The Sting,7.7
+The Office,7,6,Costume Contest,8
+The Office,7,7,Christening,7.5
+The Office,7,8,Viewing Party,8.1
+The Office,7,9,WUPHF.com,7.7
+The Office,7,10,China,7.8
+The Office,7,11,Classy Christmas (1),8.2
+The Office,7,12,Classy Christmas (2),8.6
+The Office,7,13,Ultimatum,7.8
+The Office,7,14,The Seminar,7.8
+The Office,7,15,The Search,8.3
+The Office,7,16,PDA,7.9
+The Office,7,17,Threat Level Midnight,8.6
+The Office,7,18,Todd Packer,7.4
+The Office,7,19,Garage Sale,8.8
+The Office,7,20,Training Day,7.4
+The Office,7,21,Michael's Last Dundies,8.7
+The Office,7,22,"Goodbye, Michael (1)",9
+The Office,7,23,"Goodbye, Michael (2)",9
+The Office,7,24,The Inner Circle,7.4
+The Office,7,25,"Dwight K. Schrute, (Acting) Manager",8.1
+The Office,7,26,Search Committee (1),7.9
+The Office,7,27,Search Committee (2),7.9
+The Office,8,1,The List,7.5
+The Office,8,2,The Incentive,7.6
+The Office,8,3,Lotto,7.2
+The Office,8,4,Garden Party,7.8
+The Office,8,5,Spooked,7.1
+The Office,8,6,Doomsday,7.1
+The Office,8,7,Pam's Replacement,7.4
+The Office,8,8,Gettysburg,6.7
+The Office,8,9,Mrs. California,7.2
+The Office,8,10,Christmas Wishes,7.8
+The Office,8,11,Trivia,7.6
+The Office,8,12,Pool Party,7.4
+The Office,8,13,Jury Duty,7.1
+The Office,8,14,Special Project,7.5
+The Office,8,15,Tallahassee,7.5
+The Office,8,16,After Hours,7.8
+The Office,8,17,Test the Store,7.9
+The Office,8,18,Last Day in Florida,7.8
+The Office,8,19,Get the Girl,7.7
+The Office,8,20,Welcome Party,7.5
+The Office,8,21,Angry Andy,7
+The Office,8,22,Fundraiser,7.1
+The Office,8,23,Turf War,7.1
+The Office,8,24,Free Family Portrait Studio,7.5
+The Office,9,1,The New Guys,7.2
+The Office,9,2,Roy's Wedding,7
+The Office,9,3,Andy's Ancestry,7.2
+The Office,9,4,Work Bus,7.6
+The Office,9,5,Here Comes Treble,6.8
+The Office,9,6,The Boat,7.5
+The Office,9,7,The Whale,7.3
+The Office,9,8,The Target,7.5
+The Office,9,9,Dwight Christmas,8.1
+The Office,9,10,Lice,7.5
+The Office,9,11,Suit Warehouse,7.5
+The Office,9,12,Customer Loyalty,7.7
+The Office,9,13,Junior Salesman,7
+The Office,9,14,Vandalism,7.1
+The Office,9,15,Couples Discount,7.2
+The Office,9,16,Moving On,7.4
+The Office,9,17,The Farm,7.3
+The Office,9,18,Promos,7.5
+The Office,9,19,Stairmageddon,7.1
+The Office,9,20,Paper Airplane,7.4
+The Office,9,21,Livin' the Dream,8
+The Office,9,22,A.A.R.M. (1),8.5
+The Office,9,23,A.A.R.M. (2),8.9
+The Office,9,24,Finale (1),9.5
+The Office,9,25,Finale (2),9
+Succession,1,1,Celebration,6.4
+Succession,1,2,Sh*t Show at the F**k Factory,7.2
+Succession,1,3,Lifeboats,7.2
+Succession,1,4,Sad Sack Wasp Trap,7.4
+Succession,1,5,I Went to Market,7.5
+Succession,1,6,Which Side Are You On?,7.7
+Succession,1,7,Austerlitz,7.5
+Succession,1,8,Prague,7.6
+Succession,1,9,Pre-Nuptial,8
+Succession,1,10,Nobody Is Ever Missing,7.6
+Succession,2,1,The Summer Palace,7.6
+Succession,2,2,Vaulter,7.8
+Succession,2,3,Hunting,8
+Succession,2,4,Safe Room,7.8
+Succession,2,5,Tern Haven,8.2
+Succession,2,6,Argestes,8.4
+Succession,2,7,Return,7.8
+Succession,2,8,Dundee,7.8
+Succession,2,9,DC,8.1
+Succession,2,10,This Is Not For Tears,8.5
+Succession,3,1,Secession,7.8
+Succession,3,2,Mass in Time of War,7.3
+Succession,3,3,The Disruption,7.6
+Succession,3,4,Lion in the Meadow,7.5
+Succession,3,5,Retired Janitors of Idaho,7.7
+Succession,3,6,What It Takes,7.5
+Succession,3,7,Too Much Birthday,7.2
+Succession,3,8,Chiantishire,7.8
+Succession,3,9,All the Bells Say,8.3
+Succession,4,1,The Munsters,7.8
+Succession,4,2,Rehearsal,8.1
+Succession,4,3,Connor's Wedding,9
+Succession,4,4,Honeymoon States,8.2
+Succession,4,5,Kill List,8.2
+Succession,4,6,Living+,8.2
+Succession,4,7,Tailgate Party,8.1
+Succession,4,8,America Decides,8.2
+Succession,4,9,Church and State,8.3
+Succession,4,10,With Open Eyes,8.7
+The Simpsons,1,1,Simpsons Roasting on an Open Fire,7.8
+The Simpsons,1,2,Bart the Genius,7.5
+The Simpsons,1,3,Homer's Odyssey,7.7
+The Simpsons,1,4,There's No Disgrace Like Home,8
+The Simpsons,1,5,Bart the General,8.2
+The Simpsons,1,6,Moaning Lisa,8.1
+The Simpsons,1,7,The Call of the Simpsons,7.6
+The Simpsons,1,8,The Telltale Head,7.5
+The Simpsons,1,9,Life on the Fast Lane,7.6
+The Simpsons,1,10,Homer's Night Out,8.4
+The Simpsons,1,11,The Crepes of Wrath,8.4
+The Simpsons,1,12,Krusty Gets Busted,8.4
+The Simpsons,1,13,Some Enchanted Evening,8.4
+The Simpsons,2,1,Bart Gets an F,7.9
+The Simpsons,2,2,Simpson and Delilah,7.6
+The Simpsons,2,3,Treehouse of Horror,7.9
+The Simpsons,2,4,Two Cars in Every Garage and Three Eyes on Every Fish,7.9
+The Simpsons,2,5,Dancin' Homer,7.5
+The Simpsons,2,6,Dead Putting Society,8.2
+The Simpsons,2,7,Bart vs. Thanksgiving,7.7
+The Simpsons,2,8,Bart the Daredevil,8.1
+The Simpsons,2,9,Itchy & Scratchy & Marge,7.9
+The Simpsons,2,10,Bart Gets Hit by a Car,8.1
+The Simpsons,2,11,"One Fish, Two Fish, Blowfish, Blue Fish",9.1
+The Simpsons,2,12,The Way We Was,8.2
+The Simpsons,2,13,Homer vs. Lisa and the Eighth Commandment,8.4
+The Simpsons,2,14,Principal Charming,7.8
+The Simpsons,2,15,"Oh Brother, Where Art Thou?",8.7
+The Simpsons,2,16,Bart's Dog Gets an F,8.5
+The Simpsons,2,17,Old Money,8.5
+The Simpsons,2,18,Brush with Greatness,8.1
+The Simpsons,2,19,Lisa's Substitute,8.7
+The Simpsons,2,20,The War of the Simpsons,8
+The Simpsons,2,21,Three Men and a Comic Book,8.5
+The Simpsons,2,22,Blood Feud,8.3
+The Simpsons,3,1,Stark Raving Dad,8.7
+The Simpsons,3,2,Mr. Lisa Goes to Washington,8.5
+The Simpsons,3,3,When Flanders Failed,8.6
+The Simpsons,3,4,Bart the Murderer,8.8
+The Simpsons,3,5,Homer Defined,8.5
+The Simpsons,3,6,Like Father Like Clown,8.1
+The Simpsons,3,7,Treehouse of Horror II,8.4
+The Simpsons,3,8,Lisa's Pony,8.3
+The Simpsons,3,9,Saturdays of Thunder,8.4
+The Simpsons,3,10,Flaming Moe's,8.8
+The Simpsons,3,11,Burns Verkaufen der Kraftwerk,8.2
+The Simpsons,3,12,I Married Marge,8.1
+The Simpsons,3,13,Radio Bart,8.7
+The Simpsons,3,14,Lisa the Greek,8.3
+The Simpsons,3,15,Homer Alone,8.2
+The Simpsons,3,16,Bart the Lover,8.5
+The Simpsons,3,17,Homer at the Bat,8.7
+The Simpsons,3,18,Separate Vocations,8.6
+The Simpsons,3,19,Dog of Death,8.6
+The Simpsons,3,20,Colonel Homer,8.8
+The Simpsons,3,21,Black Widower,8.5
+The Simpsons,3,22,The Otto Show,7.2
+The Simpsons,3,23,Bart's Friend Falls in Love,8
+The Simpsons,3,24,"Brother, Can You Spare Two Dimes?",8.8
+The Simpsons,4,1,Kamp Krusty,8.5
+The Simpsons,4,2,A Streetcar Named Marge,8.7
+The Simpsons,4,3,Homer the Heretic,8.8
+The Simpsons,4,4,Lisa the Beauty Queen,8
+The Simpsons,4,5,Treehouse of Horror III,9
+The Simpsons,4,6,Itchy & Scratchy: The Movie,8.8
+The Simpsons,4,7,Marge Gets a Job,8.5
+The Simpsons,4,8,The New Kid on the Block,8.5
+The Simpsons,4,9,Mr. Plow,8.7
+The Simpsons,4,10,Lisa's First Word,8.7
+The Simpsons,4,11,Homer's Triple Bypass,8.6
+The Simpsons,4,12,Marge vs. the Monorail,9
+The Simpsons,4,13,Selma's Choice,8.2
+The Simpsons,4,14,Brother from the Same Planet,7.9
+The Simpsons,4,15,I Love Lisa,8.4
+The Simpsons,4,16,Duffless,8.4
+The Simpsons,4,17,Last Exit to Springfield,8.8
+The Simpsons,4,18,So It's Come to This: A Simpsons Clip Show,7.1
+The Simpsons,4,19,The Front,8.1
+The Simpsons,4,20,Whacking Day,8.6
+The Simpsons,4,21,Marge in Chains,8.2
+The Simpsons,4,22,Krusty Gets Kancelled,7.3
+The Simpsons,5,1,Homer's Barbershop Quartet,7.9
+The Simpsons,5,2,Cape Feare,8.8
+The Simpsons,5,3,Homer Goes to College,9.3
+The Simpsons,5,4,Rosebud,8.9
+The Simpsons,5,5,Treehouse of Horror IV,8.7
+The Simpsons,5,6,Marge on the Lam,8.5
+The Simpsons,5,7,Bart's Inner Child,7.9
+The Simpsons,5,8,Boy-Scoutz 'n the Hood,8.3
+The Simpsons,5,9,The Last Temptation of Homer,8.9
+The Simpsons,5,10,"$pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)",8.8
+The Simpsons,5,11,Homer the Vigilante,9.2
+The Simpsons,5,12,Bart Gets Famous,7.9
+The Simpsons,5,13,Homer and Apu,8.8
+The Simpsons,5,14,Lisa vs. Malibu Stacy,8.7
+The Simpsons,5,15,Deep Space Homer,9
+The Simpsons,5,16,Homer Loves Flanders,8.9
+The Simpsons,5,17,Bart Gets an Elephant,7.8
+The Simpsons,5,18,Burns' Heir,8.8
+The Simpsons,5,19,Sweet Seymour Skinner's Baadasssss Song,8.9
+The Simpsons,5,20,The Boy Who Knew Too Much,8.7
+The Simpsons,5,21,Lady Bouvier's Lover,8
+The Simpsons,5,22,Secrets of a Successful Marriage,9.1
+The Simpsons,6,1,Bart of Darkness,9.2
+The Simpsons,6,2,Lisa's Rival,8.2
+The Simpsons,6,3,Another Simpsons Clip Show,6.4
+The Simpsons,6,4,Itchy & Scratchy Land,9
+The Simpsons,6,5,Sideshow Bob Roberts,8.5
+The Simpsons,6,6,Treehouse of Horror V,9.6
+The Simpsons,6,7,Bart's Girlfriend,8.3
+The Simpsons,6,8,Lisa on Ice,8.9
+The Simpsons,6,9,Homer Badman,8.9
+The Simpsons,6,10,Grandpa vs. Sexual Inadequacy,8.7
+The Simpsons,6,11,Fear of Flying,8.3
+The Simpsons,6,12,Homer the Great,9.1
+The Simpsons,6,13,And Maggie Makes Three,9.3
+The Simpsons,6,14,Bart's Comet,9.1
+The Simpsons,6,15,Homie the Clown,9.1
+The Simpsons,6,16,Bart vs. Australia,8.9
+The Simpsons,6,17,Homer vs. Patty and Selma,7.6
+The Simpsons,6,18,A Star is Burns,8.6
+The Simpsons,6,19,Lisa's Wedding,8.3
+The Simpsons,6,20,Two Dozen and One Greyhounds,8.2
+The Simpsons,6,21,The PTA Disbands,9
+The Simpsons,6,22,Round Springfield,8.8
+The Simpsons,6,23,The Springfield Connection,8.6
+The Simpsons,6,24,Lemon of Troy,9.1
+The Simpsons,6,25,Who Shot Mr. Burns? (1),8.8
+The Simpsons,7,1,Who Shot Mr. Burns? (2),8.2
+The Simpsons,7,2,Radioactive Man,8.3
+The Simpsons,7,3,Home Sweet Homediddly-Dum-Doodily,8.3
+The Simpsons,7,4,Bart Sells His Soul,8.8
+The Simpsons,7,5,Lisa the Vegetarian,8.4
+The Simpsons,7,6,Treehouse of Horror VI,8.6
+The Simpsons,7,7,King-Size Homer,8.5
+The Simpsons,7,8,Mother Simpson,8.5
+The Simpsons,7,9,Sideshow Bob's Last Gleaming,8
+The Simpsons,7,10,The Simpsons 138th Episode Spectacular,7.2
+The Simpsons,7,11,Marge Be Not Proud,7.4
+The Simpsons,7,12,Team Homer,7.3
+The Simpsons,7,13,Two Bad Neighbors,7.1
+The Simpsons,7,14,Scenes from the Class Struggle in Springfield,7.4
+The Simpsons,7,15,Bart the Fink,7.5
+The Simpsons,7,16,Lisa the Iconoclast,7.5
+The Simpsons,7,17,Homer the Smithers,8.6
+The Simpsons,7,18,The Day the Violence Died,8.1
+The Simpsons,7,19,A Fish Called Selma,8.3
+The Simpsons,7,20,Bart on the Road,9.3
+The Simpsons,7,21,22 Short Films About Springfield,8.5
+The Simpsons,7,22,"Raging Abe Simpson and His Grumbling Grandson in ""The Curse of the Flying Hellfish""",8
+The Simpsons,7,23,Much Apu About Nothing,7.9
+The Simpsons,7,24,Homerpalooza,7.8
+The Simpsons,7,25,Summer of 4 ft. 2,8.6
+The Simpsons,8,1,Treehouse of Horror VII,8
+The Simpsons,8,2,You Only Move Twice,8.6
+The Simpsons,8,3,The Homer They Fall,7.8
+The Simpsons,8,4,"Burns, Baby Burns",7.9
+The Simpsons,8,5,Bart After Dark,8.2
+The Simpsons,8,6,A Milhouse Divided,8.2
+The Simpsons,8,7,Lisa's Date with Density,7.8
+The Simpsons,8,8,Hurricane Neddy,8.3
+The Simpsons,8,9,El Viaje de Nuestro Jomer (The Mysterious Voyage of Homer),8.5
+The Simpsons,8,10,The Springfield Files,8.3
+The Simpsons,8,11,The Twisted World of Marge Simpson,7.7
+The Simpsons,8,12,Mountain of Madness,8
+The Simpsons,8,13,Simpsoncalifragilisticexpiala (Annoyed Grunt) cious,7.1
+The Simpsons,8,14,The Itchy & Scratchy & Poochie Show,8.4
+The Simpsons,8,15,Homer's Phobia,8.2
+The Simpsons,8,16,Brother from Another Series,7.8
+The Simpsons,8,17,"My Sister, My Sitter",7.9
+The Simpsons,8,18,Homer vs. the Eighteenth Amendment,8.1
+The Simpsons,8,19,Grade School Confidential,8.1
+The Simpsons,8,20,The Canine Mutiny,7.7
+The Simpsons,8,21,The Old Man and Lisa,8
+The Simpsons,8,22,In Marge We Trust,8.2
+The Simpsons,8,23,Homer's Enemy,8.1
+The Simpsons,8,24,The Simpsons Spin-Off Showcase,7.6
+The Simpsons,8,25,The Secret War of Lisa Simpson,8.5
+The Simpsons,9,1,The City of New York vs. Homer Simpson,8.7
+The Simpsons,9,2,The Principal and the Pauper,8.5
+The Simpsons,9,3,Lisa's Sax,8
+The Simpsons,9,4,Treehouse of Horror VIII,8.6
+The Simpsons,9,5,The Cartridge Family,7.9
+The Simpsons,9,6,Bart Star,7.9
+The Simpsons,9,7,The Two Mrs. Nahasapeemapetilons,8.1
+The Simpsons,9,8,Lisa the Skeptic,8.5
+The Simpsons,9,9,Realty Bites,8.2
+The Simpsons,9,10,Miracle on Evergreen Terrace,8.8
+The Simpsons,9,11,"All Singing, All Dancing",7
+The Simpsons,9,12,Bart Carny,8.3
+The Simpsons,9,13,The Joy of Sect,8.7
+The Simpsons,9,14,Das Bus,7.8
+The Simpsons,9,15,The Last Temptation of Krusty,8
+The Simpsons,9,16,Dumbbell Indemnity,8.3
+The Simpsons,9,17,Lisa the Simpson,7.9
+The Simpsons,9,18,This Little Wiggy,7.9
+The Simpsons,9,19,Simpson Tide,8
+The Simpsons,9,20,The Trouble with Trillions,8.2
+The Simpsons,9,21,Girly Edition,8.3
+The Simpsons,9,22,Trash of the Titans,8.2
+The Simpsons,9,23,King of the Hill,8.5
+The Simpsons,9,24,Lost Our Lisa,8.6
+The Simpsons,9,25,Natural Born Kissers,8.2
+The Simpsons,10,1,Lard of the Dance,7.8
+The Simpsons,10,2,The Wizard of Evergreen Terrace,7.9
+The Simpsons,10,3,Bart the Mother,8.1
+The Simpsons,10,4,Treehouse of Horror IX,8.8
+The Simpsons,10,5,When You Dish Upon a Star,8.5
+The Simpsons,10,6,D'Oh-in' in the Wind,8.2
+The Simpsons,10,7,"Lisa Gets an ""A""",8.4
+The Simpsons,10,8,"Homer Simpson in: ""Kidney Trouble""",6.9
+The Simpsons,10,9,Mayored to the Mob,7.9
+The Simpsons,10,10,Viva Ned Flanders,7.9
+The Simpsons,10,11,Wild Barts Can't Be Broken,8
+The Simpsons,10,12,"Sunday, Cruddy Sunday",7
+The Simpsons,10,13,Homer to the Max,7.8
+The Simpsons,10,14,I'm with Cupid,7.8
+The Simpsons,10,15,"Marge Simpson in: ""Screaming Yellow Honkers""",7.8
+The Simpsons,10,16,Make Room for Lisa,7.5
+The Simpsons,10,17,Maximum Homerdrive,8.1
+The Simpsons,10,18,Simpsons Bible Stories,8.1
+The Simpsons,10,19,Mom and Pop Art,8.2
+The Simpsons,10,20,"The Old Man and the ""C"" Student",7.4
+The Simpsons,10,21,Monty Can't Buy Me Love,7.9
+The Simpsons,10,22,They Saved Lisa's Brain,7.4
+The Simpsons,10,23,30 Minutes Over Tokyo,8.3
+The Simpsons,11,1,Beyond Blunderdome,7.7
+The Simpsons,11,2,Brother's Little Helper,8.8
+The Simpsons,11,3,Guess Who's Coming to Criticize Dinner,8.4
+The Simpsons,11,4,Treehouse of Horror X,8.9
+The Simpsons,11,5,E-I-E-I-(Annoyed Grunt),8.9
+The Simpsons,11,6,"Hello Gutter, Hello Fadder",8.2
+The Simpsons,11,7,Eight Misbehavin,8.5
+The Simpsons,11,8,"Take My Wife, Sleaze",8.4
+The Simpsons,11,9,Grift of the Magi,8.5
+The Simpsons,11,10,Little Big Mom,7.5
+The Simpsons,11,11,Faith Off,7.8
+The Simpsons,11,12,The Mansion Family,8.1
+The Simpsons,11,13,Saddlesore Galactica,8.1
+The Simpsons,11,14,Alone Again Natura-Diddily,8.6
+The Simpsons,11,15,Missionary Impossible,8.3
+The Simpsons,11,16,Pygmoelian,8.3
+The Simpsons,11,17,Bart to the Future,8.8
+The Simpsons,11,18,Days of Wine and D'Ohses,8.4
+The Simpsons,11,19,Kill the Alligator and Run,8.8
+The Simpsons,11,20,Last Tap Dance in Springfield,8.4
+The Simpsons,11,21,"It's a Mad, Mad, Mad, Mad Marge",8.7
+The Simpsons,11,22,Behind the Laughter,8.6
+The Simpsons,12,1,Treehouse of Horror XI,8.6
+The Simpsons,12,2,A Tale of Two Springfields,8.5
+The Simpsons,12,3,Insane Clown Poppy,8.4
+The Simpsons,12,4,Lisa the Treehugger,8.3
+The Simpsons,12,5,Homer vs. Dignity,8.1
+The Simpsons,12,6,The Computer Wore Menace Shoes,8.6
+The Simpsons,12,7,The Great Money Caper,8.3
+The Simpsons,12,8,Skinner's Sense of Snow,8.2
+The Simpsons,12,9,HOMR,8.3
+The Simpsons,12,10,Pokey Mom,7.3
+The Simpsons,12,11,Worst Episode Ever,8.6
+The Simpsons,12,12,Tennis the Menace,7.8
+The Simpsons,12,13,Day of the Jackanapes,8.3
+The Simpsons,12,14,New Kids on the Blecch,7.8
+The Simpsons,12,15,Hungry Hungry Homer,8.2
+The Simpsons,12,16,Bye Bye Nerdy,8.7
+The Simpsons,12,17,Simpsons Safari,8.6
+The Simpsons,12,18,Trilogy of Error,8.8
+The Simpsons,12,19,I'm Goin' to Praise Land,8.2
+The Simpsons,12,20,Children of a Lesser Clod,8.1
+The Simpsons,12,21,Simpsons Tall Tales,8.3
+The Simpsons,13,1,Treehouse of Horror XII,8.4
+The Simpsons,13,2,The Parent Rap,8.2
+The Simpsons,13,3,Homer the Moe,8.4
+The Simpsons,13,4,Hunka Hunka Burns in Love,8.2
+The Simpsons,13,5,The Blunder Years,8.9
+The Simpsons,13,6,She of Little Faith,8
+The Simpsons,13,7,Brawl in the Family,8.2
+The Simpsons,13,8,Sweets and Sour Marge,8.2
+The Simpsons,13,9,Jaws Wired Shut,7.8
+The Simpsons,13,10,Half-Decent Proposal,8.1
+The Simpsons,13,11,The Bart Wants What It Wants,7.9
+The Simpsons,13,12,The Lastest Gun in the West,8.2
+The Simpsons,13,13,The Old Man and the Key,8
+The Simpsons,13,14,Tales from the Public Domain,8.6
+The Simpsons,13,15,Blame It on Lisa,8.1
+The Simpsons,13,16,Weekend at Burnsies,7.9
+The Simpsons,13,17,Gump Roast,7.1
+The Simpsons,13,18,I Am Furious Yellow,8.6
+The Simpsons,13,19,The Sweetest Apu,8.6
+The Simpsons,13,20,Little Girl in the Big Ten,8.4
+The Simpsons,13,21,Frying Game,8.6
+The Simpsons,13,22,Papa's Got a Brand New Badge,8.7
+The Simpsons,14,1,Treehouse of Horror XIII,8.3
+The Simpsons,14,2,How I Spent My Strummer Vacation,7.9
+The Simpsons,14,3,Bart vs. Lisa vs. 3rd Grade,8.3
+The Simpsons,14,4,Large Marge,7.8
+The Simpsons,14,5,Helter Shelter,8.9
+The Simpsons,14,6,The Great Louse Detective,8.7
+The Simpsons,14,7,Special Edna (a.k.a. Love and Marking),7.9
+The Simpsons,14,8,The Dad Who Knew Too Little,9
+The Simpsons,14,9,The Strong Arms of the Ma,8.3
+The Simpsons,14,10,Pray Anything,8.2
+The Simpsons,14,11,Barting Over,8.3
+The Simpsons,14,12,I'm Spelling As Fast As I Can,8.4
+The Simpsons,14,13,A Star is Born Again,8.4
+The Simpsons,14,14,Mr. Spritz Goes to Washington,8.4
+The Simpsons,14,15,C. E. D'oh,8.6
+The Simpsons,14,16,'Scuse Me While I Miss the Sky,8.1
+The Simpsons,14,17,Three Gays of the Condo,8.8
+The Simpsons,14,18,"Dude, Where's My Ranch?",8.5
+The Simpsons,14,19,Old Yeller-Belly,8.6
+The Simpsons,14,20,"Brake My Wife, Please",9
+The Simpsons,14,21,The Bart of War,8.5
+The Simpsons,14,22,Moe Baby Blues,8.7
+The Simpsons,15,1,Treehouse of Horror XIV,8.9
+The Simpsons,15,2,My Mother the Carjacker,9
+The Simpsons,15,3,The President Wore Pearls,9.2
+The Simpsons,15,4,The Regina Monologues,9.2
+The Simpsons,15,5,The Fat and the Furriest,8.7
+The Simpsons,15,6,Today I Am a Klown,7.9
+The Simpsons,15,7,'Tis the Fifteenth Season,8.5
+The Simpsons,15,8,"Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays",8.2
+The Simpsons,15,9,"I, (Annoyed Grunt)-Bot",8.6
+The Simpsons,15,10,Diatribe of a Mad Housewife,8.8
+The Simpsons,15,11,Margical History Tour,8.6
+The Simpsons,15,12,Milhouse Doesn't Live Here Anymore,8.4
+The Simpsons,15,13,Smart & Smarter,8.4
+The Simpsons,15,14,The Ziff Who Came to Dinner,8.4
+The Simpsons,15,15,Co-Dependent's Day,8.3
+The Simpsons,15,16,Wandering Juvie,8.7
+The Simpsons,15,17,My Big Fat Geek Wedding,8.5
+The Simpsons,15,18,Catch 'Em If You Can,8.7
+The Simpsons,15,19,Simple Simpson,8.6
+The Simpsons,15,20,The Way We Weren't,8.7
+The Simpsons,15,21,Bart-Mangled Banner,8.5
+The Simpsons,15,22,Fraudcast News,8.4
+The Simpsons,16,1,Treehouse of Horror XV,8.9
+The Simpsons,16,2,All's Fair in Oven War,8.2
+The Simpsons,16,3,Sleeping with the Enemy,8.7
+The Simpsons,16,4,She Used to Be My Girl,7.6
+The Simpsons,16,5,Fat Man and Little Boy,8.4
+The Simpsons,16,6,Midnight Rx,8.7
+The Simpsons,16,7,Mommie Beerest,8.5
+The Simpsons,16,8,Homer and Ned's Hail Mary Pass,8.5
+The Simpsons,16,9,Pranksta Rap,8.3
+The Simpsons,16,10,There's Something About Marrying,7.8
+The Simpsons,16,11,On a Clear Day I Can't See My Sister,7.8
+The Simpsons,16,12,Goo Goo Gai Pan,8.6
+The Simpsons,16,13,Mobile Homer,8.6
+The Simpsons,16,14,The Seven-Beer Snitch,8.9
+The Simpsons,16,15,Future-Drama,9
+The Simpsons,16,16,Don't Fear the Roofer,8.8
+The Simpsons,16,17,The Heartbroke Kid,8.6
+The Simpsons,16,18,A Star is Torn,8.2
+The Simpsons,16,19,Thank God It's Doomsday,8.2
+The Simpsons,16,20,Home Away from Homer,8.7
+The Simpsons,16,21,"Father, Son and Holy Guest-Star",8.7
+The Simpsons,17,1,Bonfire of the Manatees,8.2
+The Simpsons,17,2,The Girl Who Slept Too Little,8.3
+The Simpsons,17,3,Millhouse Of Sand And Fog,8.7
+The Simpsons,17,4,Treehouse of Horror XVI,8.9
+The Simpsons,17,5,Marge's Son Poisoning,8.7
+The Simpsons,17,6,See Homer Run,8.9
+The Simpsons,17,7,The Last of the Red Hat Mamas,8.4
+The Simpsons,17,8,The Italian Bob,8.6
+The Simpsons,17,9,Simpsons Christmas Stories,8.8
+The Simpsons,17,10,Homer's Paternity Coot,8.5
+The Simpsons,17,11,We're on the Road to D'oh-where,8.9
+The Simpsons,17,12,My Fair Laddy,8.6
+The Simpsons,17,13,The Seemingly Never-Ending Story,9.2
+The Simpsons,17,14,Bart Has Two Mommies,8.3
+The Simpsons,17,15,"Homer Simpson, This is Your Wife",8.4
+The Simpsons,17,16,Million Dollar Abie,8.2
+The Simpsons,17,17,Kiss Kiss Bang Bangalore,8.5
+The Simpsons,17,18,The Wettest Stories Ever Told,8.8
+The Simpsons,17,19,Girls Just Want to Have Sums,8.1
+The Simpsons,17,20,Regarding Margie,7.9
+The Simpsons,17,21,The Monkey Suit,8.3
+The Simpsons,17,22,Marge and Homer Turn a Couple Play,8.5
+The Simpsons,18,1,"The Mook, the Chef, the Wife and Her Homer",8.8
+The Simpsons,18,2,Jazzy and the Pussycats,8.1
+The Simpsons,18,3,"Please Homer, Don't Hammer 'em",8.2
+The Simpsons,18,4,Treehouse of Horror XVII,8.6
+The Simpsons,18,5,GI (Annoyed Grunt),7.5
+The Simpsons,18,6,Moe 'N' a Lisa,7.8
+The Simpsons,18,7,Ice Cream of Margie (With the Light Blue Hair),8.3
+The Simpsons,18,8,The Haw-Hawed Couple,8.9
+The Simpsons,18,9,Kill Gil (Parts I & II),7.9
+The Simpsons,18,10,The Wife Aquatic,8.5
+The Simpsons,18,11,Revenge is a Dish Best Served Three Times,8.7
+The Simpsons,18,12,Little Big Girl,8.5
+The Simpsons,18,13,Springfield Up,9
+The Simpsons,18,14,Yokel Chords,8.6
+The Simpsons,18,15,Rome-old and Juli-eh,7.7
+The Simpsons,18,16,Homerazzi,8.2
+The Simpsons,18,17,Marge Gamer,8.2
+The Simpsons,18,18,The Boys of Bummer,7.8
+The Simpsons,18,19,Crook and Ladder,7.7
+The Simpsons,18,20,Stop or My Dog Will Shoot,7.8
+The Simpsons,18,21,24 Minutes,9.2
+The Simpsons,18,22,You Kent Always Say What You Want,8.2
+The Simpsons,19,1,He Loves to Fly and He D'ohs,8.9
+The Simpsons,19,2,Homer of Seville,8.4
+The Simpsons,19,3,Midnight Towboy,8.9
+The Simpsons,19,4,I Don't Wanna Know Why the Caged Bird Sings,8.8
+The Simpsons,19,5,Treehouse of Horror XVIII,9.1
+The Simpsons,19,6,Little Orphan Millie,8.4
+The Simpsons,19,7,Husbands and Knives,8.7
+The Simpsons,19,8,Funeral for a Fiend,9.1
+The Simpsons,19,9,Eternal Moonshine of the Simpson Mind,9
+The Simpsons,19,10,E Pluribus Wiggum,8.6
+The Simpsons,19,11,That 90's Show,8.6
+The Simpsons,19,12,"Love, Springfieldian Style",8.5
+The Simpsons,19,13,The Debarted,8.6
+The Simpsons,19,14,Dial 'N' for Nerder,9.1
+The Simpsons,19,15,Smoke on the Daughter,7.7
+The Simpsons,19,16,Papa Don't Leech,8.6
+The Simpsons,19,17,Apocalypse Cow,8.8
+The Simpsons,19,18,Any Given Sundance,8.4
+The Simpsons,19,19,Mona Leaves-a,8.8
+The Simpsons,19,20,All About Lisa,8.7
+The Simpsons,20,1,"Sex, Pies and Idiot Scrapes",8.6
+The Simpsons,20,2,Lost Verizon,8.8
+The Simpsons,20,3,"Double, Double, Boy in Trouble",8.1
+The Simpsons,20,4,Treehouse of Horror XIX,7.8
+The Simpsons,20,5,Dangerous Curves,8.3
+The Simpsons,20,6,Homer and Lisa Exchange Cross Words,8.7
+The Simpsons,20,7,Mypods and Boomsticks,8
+The Simpsons,20,8,The Burns and the Bees,8.1
+The Simpsons,20,9,Lisa the Drama Queen,7.9
+The Simpsons,20,10,"Take My Life, Please",8.7
+The Simpsons,20,11,How the Test Was Won,8.8
+The Simpsons,20,12,"No Loan Again, Naturally",8.7
+The Simpsons,20,13,Gone Maggie Gone,8.8
+The Simpsons,20,14,In the Name of the Grandfather,8.3
+The Simpsons,20,15,Wedding for Disaster,8.7
+The Simpsons,20,16,Eeny Teeny Maya Moe,8.8
+The Simpsons,20,17,"The Good, the Sad and the Drugly",8.5
+The Simpsons,20,18,Father Knows Worst,8.6
+The Simpsons,20,19,"Waverly Hills, 9021-D'Oh",8.9
+The Simpsons,20,20,Four Great Women and a Manicure,8.7
+The Simpsons,20,21,Coming to Homerica,8.2
+The Simpsons,21,1,Homer the Whopper,7.6
+The Simpsons,21,2,Bart Gets a 'Z',7.7
+The Simpsons,21,3,The Great Wife Hope,7.4
+The Simpsons,21,4,Treehouse of Horror XX,8.4
+The Simpsons,21,5,The Devil Wears Nada,8.2
+The Simpsons,21,6,Pranks and Greens,7.6
+The Simpsons,21,7,Rednecks and Broomsticks,6.9
+The Simpsons,21,8,"O Brother, Where Bart Thou?",8.2
+The Simpsons,21,9,Thursdays with Abie,7.7
+The Simpsons,21,10,Once Upon a Time in Springfield,7.3
+The Simpsons,21,11,Million Dollar Maybe,7.9
+The Simpsons,21,12,Boy Meets Curl,8
+The Simpsons,21,13,The Color Yellow,7.5
+The Simpsons,21,14,Postcards from the Wedge,8.5
+The Simpsons,21,15,Stealing First Base,7.8
+The Simpsons,21,16,The Greatest Story Ever Doh'd,7.5
+The Simpsons,21,17,American History X-cellent,7.2
+The Simpsons,21,18,Chief of Hearts,8
+The Simpsons,21,19,The Squirt and the Whale,8
+The Simpsons,21,20,To Surveil with Love,7.9
+The Simpsons,21,21,Moe Letter Blues,8
+The Simpsons,21,22,The Bob Next Door,8.3
+The Simpsons,21,23,Judge Me Tender,8.2
+The Simpsons,22,1,Elementary School Musical,7.4
+The Simpsons,22,2,Loan-a-Lisa,7.9
+The Simpsons,22,3,Money Bart,7.7
+The Simpsons,22,4,Treehouse of Horror XXI,8.6
+The Simpsons,22,5,"Lisa Simpson, This Isn't Your Life",7.7
+The Simpsons,22,6,The Fool Monty,7.9
+The Simpsons,22,7,How Munched is That Birdie in the Window,8.1
+The Simpsons,22,8,The Fight Before Christmas,8.5
+The Simpsons,22,9,Donnie Fatso,7.6
+The Simpsons,22,10,Moms I'd Like to Forget,8
+The Simpsons,22,11,Flaming Moe,7.4
+The Simpsons,22,12,Homer the Father,7.7
+The Simpsons,22,13,The Blue and the Gray,7.5
+The Simpsons,22,14,Angry Dad: The Movie,8.4
+The Simpsons,22,15,The Scorpion's Tale,7.3
+The Simpsons,22,16,A Midsummer's Nice Dream,7.6
+The Simpsons,22,17,Love is a Many Strangled Thing,6.8
+The Simpsons,22,18,The Great Simpsina,7.8
+The Simpsons,22,19,The Real Housewives of Fat Tony,8
+The Simpsons,22,20,Homer Scissorhands,8.1
+The Simpsons,22,21,500 Keys,8.1
+The Simpsons,22,22,The Ned-Liest Catch,8.1
+The Simpsons,23,1,The Falcon and the D'ohman,7.4
+The Simpsons,23,2,Bart Stops to Smell the Roosevelts,7.6
+The Simpsons,23,3,Treehouse of Horror XXII,7.6
+The Simpsons,23,4,Replaceable You,7.4
+The Simpsons,23,5,The Food Wife,8.1
+The Simpsons,23,6,The Book Job,7.8
+The Simpsons,23,7,The Man in the Blue Flannel Pants,7.4
+The Simpsons,23,8,The Ten-Per-Cent Solution,7
+The Simpsons,23,9,Holidays of Future Passed,8.3
+The Simpsons,23,10,"Politically Inept, with Homer Simpson",7.2
+The Simpsons,23,11,The D'oh-cial Network,7.8
+The Simpsons,23,12,Moe Goes from Rags to Riches,6.8
+The Simpsons,23,13,The Daughter Also Rises,7.3
+The Simpsons,23,14,At Long Last Leave,7.9
+The Simpsons,23,15,Exit Through the Kwik-E-Mart,8.1
+The Simpsons,23,16,How I Wet Your Mother,8.3
+The Simpsons,23,17,"Them, Robot",8.2
+The Simpsons,23,18,Beware My Cheating Bart,8.3
+The Simpsons,23,19,A Totally Fun Thing That Bart Will Never Do Again,8.6
+The Simpsons,23,20,The Spy Who Learned Me,7.9
+The Simpsons,23,21,Ned 'n' Edna's Blend,8.1
+The Simpsons,23,22,Lisa Goes Gaga,7.4
+The Simpsons,24,1,Moonshine River,7.3
+The Simpsons,24,2,Treehouse of Horror XXIII,7.5
+The Simpsons,24,3,Adventures in Baby-Getting,7.9
+The Simpsons,24,4,Gone Abie Gone,7.3
+The Simpsons,24,5,Penny-Wiseguys,8.1
+The Simpsons,24,6,A Tree Grows in Springfield,8.2
+The Simpsons,24,7,The Day the Earth Stood Cool,8.2
+The Simpsons,24,8,To Cur with Love,8.4
+The Simpsons,24,9,Homer Goes to Prep School,8.3
+The Simpsons,24,10,A Test Before Trying,8.4
+The Simpsons,24,11,The Changing of the Guardian,8.1
+The Simpsons,24,12,Love is a Many-Splintered Thing,7.6
+The Simpsons,24,13,Hardly Kirk-Ing,8.5
+The Simpsons,24,14,Gorgeous Grampa,8
+The Simpsons,24,15,"Black-eyed, Please",8.5
+The Simpsons,24,16,Dark Knight Court,8.2
+The Simpsons,24,17,What Animated Women Want,7.8
+The Simpsons,24,18,Pulpit Friction,8.4
+The Simpsons,24,19,Whiskey Business,8.4
+The Simpsons,24,20,The Fabulous Faker Boy,7.9
+The Simpsons,24,21,The Saga of Carl,8.5
+The Simpsons,24,22,Dangers on a Train,8.2
+The Simpsons,25,1,Homerland,8.4
+The Simpsons,25,2,Treehouse of Horror XXIV,8.3
+The Simpsons,25,3,Four Regrettings and a Funeral,7.9
+The Simpsons,25,4,YOLO,8.1
+The Simpsons,25,5,Labor Pains,8.3
+The Simpsons,25,6,The Kid is All Right,8.3
+The Simpsons,25,7,Yellow Subterfuge,8
+The Simpsons,25,8,White Christmas Blues,7.7
+The Simpsons,25,9,Steal This Episode,8.8
+The Simpsons,25,10,Married to the Blob,8.3
+The Simpsons,25,11,Specs and the City,8.3
+The Simpsons,25,12,Diggs,8.1
+The Simpsons,25,13,The Man Who Grew Too Much,8.9
+The Simpsons,25,14,The Winter of His Content,8.3
+The Simpsons,25,15,The War of Art,8.4
+The Simpsons,25,16,You Don't Have to Live Like a Referee,8.5
+The Simpsons,25,17,Luca$,8.6
+The Simpsons,25,18,Days of Future Future,8.7
+The Simpsons,25,19,What to Expect When Bart's Expecting,8.6
+The Simpsons,25,20,Brick Like Me,8.5
+The Simpsons,25,21,Pay Pal,8.5
+The Simpsons,25,22,The Yellow Badge of Cowardge,8.5
+The Simpsons,26,1,Clown in the Dumps,7.4
+The Simpsons,26,2,The Wreck of the Relationship,8.1
+The Simpsons,26,3,Super Franchise Me,8.7
+The Simpsons,26,4,Treehouse of Horror XXV,8.3
+The Simpsons,26,5,Opposites A-frack,8.2
+The Simpsons,26,6,Simpsorama,8.6
+The Simpsons,26,7,Blazed and Confused,8.6
+The Simpsons,26,8,Covercraft,7.4
+The Simpsons,26,9,I Won't Be Home for Christmas,9
+The Simpsons,26,10,The Man Who Came to Be Dinner,8.7
+The Simpsons,26,11,Bart's New Friend,9.3
+The Simpsons,26,12,The Musk Who Fell to Earth,7.1
+The Simpsons,26,13,Walking Big & Tall,8.7
+The Simpsons,26,14,My Fare Lady,8.9
+The Simpsons,26,15,The Princess Guide,8.8
+The Simpsons,26,16,Sky Police,8.7
+The Simpsons,26,17,Waiting for Duffman,8.9
+The Simpsons,26,18,Peeping Mom,8.7
+The Simpsons,26,19,The Kids Are All Fight,8.4
+The Simpsons,26,20,Let's Go Fly a Coot,8.1
+The Simpsons,26,21,Bull-E,8.4
+The Simpsons,26,22,Mathlete's Feat,7.6
+The Simpsons,27,1,Every Man's Dream,7.5
+The Simpsons,27,2,Cue Detective,8.2
+The Simpsons,27,3,Puffless,7.4
+The Simpsons,27,4,Halloween of Horror,7.6
+The Simpsons,27,5,Treehouse of Horror XXVI,7.9
+The Simpsons,27,6,Friend with Benefit,7.3
+The Simpsons,27,7,Lisa with an 'S',7
+The Simpsons,27,8,Paths of Glory,7.5
+The Simpsons,27,9,Barthood,7.3
+The Simpsons,27,10,The Girl Code,7
+The Simpsons,27,11,Teenage Mutant Milk-caused Hurdles,6.8
+The Simpsons,27,12,Much Apu About Something,7.4
+The Simpsons,27,13,Love is in the N2-O2-Ar-CO2-Ne-He-CH4,7.7
+The Simpsons,27,14,Gal of Constant Sorrow,5.8
+The Simpsons,27,15,Lisa the Veterinarian,7.8
+The Simpsons,27,16,The Marge-ian Chronicles,8
+The Simpsons,27,17,The Burns Cage,8.2
+The Simpsons,27,18,How Lisa Got Her Marge Back,6.7
+The Simpsons,27,19,Fland Canyon,7.8
+The Simpsons,27,20,To Courier with Love,7.5
+The Simpsons,27,21,Simprovised,6.3
+The Simpsons,27,22,Orange is the New Yellow,7.5
+The Simpsons,28,1,Monty Burns' Fleeing Circus,7.3
+The Simpsons,28,2,Friends and Family,7.4
+The Simpsons,28,3,The Town,7.6
+The Simpsons,28,4,Treehouse of Horror XXVII,7.7
+The Simpsons,28,5,Trust But Clarify,7.1
+The Simpsons,28,6,There Will Be Buds,7.8
+The Simpsons,28,7,Havana Wild Weekend,7.9
+The Simpsons,28,8,Dad Behavior,7.6
+The Simpsons,28,9,The Last Traction Hero,7.9
+The Simpsons,28,10,The Nightmare After Krustmas,7.1
+The Simpsons,28,11,Pork & Burns,8.3
+The Simpsons,28,12,"The Great Phatsby, Part One",7.7
+The Simpsons,28,13,"The Great Phatsby, Part Two",7.9
+The Simpsons,28,14,Fatzcarraldo,7.1
+The Simpsons,28,15,The Cad and the Hat,7.8
+The Simpsons,28,16,Kamp Krustier,8.4
+The Simpsons,28,17,22 for 30,7.3
+The Simpsons,28,18,A Father's Watch,7.7
+The Simpsons,28,19,Caper Chase,7.3
+The Simpsons,28,20,Looking for Mr. Goodbart,7.8
+The Simpsons,28,21,Moho House,7.8
+The Simpsons,28,22,Dogtown,7.5
+The Simpsons,29,1,The Serfsons,7.4
+The Simpsons,29,2,Springfield Splendor,7.8
+The Simpsons,29,3,Whistler's Father,7.6
+The Simpsons,29,4,Treehouse of Horror XXVIII,7.8
+The Simpsons,29,5,Grampy Can Ya Hear Me,7.5
+The Simpsons,29,6,The Old Blue Mayor She Ain't What She Used to Be,7.6
+The Simpsons,29,7,Singin' in the Lane,7.5
+The Simpsons,29,8,Mr. Lisa's Opus,7.9
+The Simpsons,29,9,Gone Boy,7.9
+The Simpsons,29,10,Haw-Haw Land,7.1
+The Simpsons,29,11,Frink Gets Testy,7.1
+The Simpsons,29,12,Homer is Where the Art Isn't,7.7
+The Simpsons,29,13,3 Scenes Plus a Tag from a Marriage,7.3
+The Simpsons,29,14,Fears of a Clown,7.1
+The Simpsons,29,15,No Good Read Goes Unpunished,7.3
+The Simpsons,29,16,King Leer,7.6
+The Simpsons,29,17,Lisa Gets the Blues,8.1
+The Simpsons,29,18,Forgive and Regret,8.1
+The Simpsons,29,19,Left Behind,7.8
+The Simpsons,29,20,Throw Grampa from the Dane,7.8
+The Simpsons,29,21,Flanders' Ladder,8.1
+The Simpsons,30,1,Bart's Not Dead,7.9
+The Simpsons,30,2,Heartbreak Hotel,7.3
+The Simpsons,30,3,My Way or the Highway to Heaven,7.3
+The Simpsons,30,4,Treehouse of Horror XXIX,7
+The Simpsons,30,5,Baby You Can't Drive My Car,7.6
+The Simpsons,30,6,From Russia Without Love,7.6
+The Simpsons,30,7,Werking Mom,6.8
+The Simpsons,30,8,Krusty the Clown,6.8
+The Simpsons,30,9,Daddicus Finch,7.3
+The Simpsons,30,10,'Tis the 30th Season,8.2
+The Simpsons,30,11,Mad About the Toy,7.1
+The Simpsons,30,12,The Girl on the Bus,7.9
+The Simpsons,30,13,I'm Dancing as Fat as I Can,7.5
+The Simpsons,30,14,The Clown Stays in the Picture,7.4
+The Simpsons,30,15,101 Mitigations,7.6
+The Simpsons,30,16,I Want You (She's So Heavy),7.4
+The Simpsons,30,17,E My Sports,7.4
+The Simpsons,30,18,Bart vs. Itchy & Scratchy,7.6
+The Simpsons,30,19,Girl's in the Band,7.3
+The Simpsons,30,20,I'm Just a Girl Who Can't Say D'oh,7.1
+The Simpsons,30,21,D'oh Canada,6.5
+The Simpsons,30,22,Woo-Hoo Dunnit,7.4
+The Simpsons,30,23,Crystal Blue-Haired Persuasion,7.6
+The Simpsons,31,1,The Winter of Our Monetized Content,7.6
+The Simpsons,31,2,Go Big or Go Homer,7.2
+The Simpsons,31,3,The Fat Blue Line,6.7
+The Simpsons,31,4,Treehouse of Horror XXX,7.2
+The Simpsons,31,5,Gorillas on the Mast,7.4
+The Simpsons,31,6,Marge the Lumberjill,7.8
+The Simpsons,31,7,Livin La Pura Vida,8.1
+The Simpsons,31,8,Thanksgiving of Horror,6.9
+The Simpsons,31,9,"Todd, Todd, Why Hast Thou Forsaken Me?",8.1
+The Simpsons,31,10,"Bobby, It's Cold Outside",7.7
+The Simpsons,31,11,Hail to the Teeth,7.4
+The Simpsons,31,12,The Miseducation of Lisa Simpson,7.8
+The Simpsons,31,13,Frinkcoin,7.5
+The Simpsons,31,14,Bart the Bad Guy,8
+The Simpsons,31,15,Screenless,7.8
+The Simpsons,31,16,Better Off Ned,7.8
+The Simpsons,31,17,Highway to Well,8
+The Simpsons,31,18,The Incredible Lightness of Being a Baby,7.7
+The Simpsons,31,19,Warrin' Priests,6.9
+The Simpsons,31,20,Warrin' Priests Part Two,7.7
+The Simpsons,31,21,The Hateful Eight-Year-Olds,7.9
+The Simpsons,31,22,The Way of the Dog,8.7
+The Simpsons,32,1,Undercover Burns,8.1
+The Simpsons,32,2,"I, Carumbus",7.7
+The Simpsons,32,3,"Now Museum, Now You Don't",7
+The Simpsons,32,4,Treehouse of Horror XXXI,7.8
+The Simpsons,32,5,The 7 Beer Itch,7.4
+The Simpsons,32,6,Podcast News,7.9
+The Simpsons,32,7,Three Dreams Denied,7.8
+The Simpsons,32,8,The Road To Cincinnati,7.8
+The Simpsons,32,9,Sorry Not Sorry,7.6
+The Simpsons,32,10,A Springfield Summer Christmas for Christmas,6.7
+The Simpsons,32,11,The Dad-Feelings Limited,8
+The Simpsons,32,12,Diary Queen,8.1
+The Simpsons,32,13,Wad Goals,7.6
+The Simpsons,32,14,Yokel Hero,7.6
+The Simpsons,32,15,Do PizzaBots Dream of Electric Guitars?,7.6
+The Simpsons,32,16,Manger Things,7.7
+The Simpsons,32,17,Uncut Femmes,7.5
+The Simpsons,32,18,Burger Kings,7.9
+The Simpsons,32,19,Panic On The Streets Of Springfield,8.1
+The Simpsons,32,20,Mother and Child Reunion,8.1
+The Simpsons,32,21,The Man from G.R.A.M.P.A.,8.2
+The Simpsons,32,22,The Last Barfighter,8.3
+The Simpsons,33,1,The Star of the Backstage,6.3
+The Simpsons,33,2,Bart's in Jail,8.1
+The Simpsons,33,3,Treehouse of Horror XXXII,7.4
+The Simpsons,33,4,The Wayz We Were,7.6
+The Simpsons,33,5,Lisa's Belly,8.1
+The Simpsons,33,6,A Serious Flanders Part One,8.1
+The Simpsons,33,7,A Serious Flanders Part Two,7.9
+The Simpsons,33,8,Portrait of a Lackey on Fire,7.9
+The Simpsons,33,9,Mothers and Other Strangers,8.3
+The Simpsons,33,10,A Made Maggie,8.2
+The Simpsons,33,11,The Longest Marge,7.6
+The Simpsons,33,12,Pixelated and Afraid,8
+The Simpsons,33,13,Boyz N The Highlands,7.5
+The Simpsons,33,14,You Won't Believe What This Episode is About - Act Three Will Shock You!,7.8
+The Simpsons,33,15,Bart the Cool Kid,7.1
+The Simpsons,33,16,Pretty Whittle Liar,7.3
+The Simpsons,33,17,The Sound of Bleeding Gums,7.8
+The Simpsons,33,18,My Octopus and a Teacher,7.9
+The Simpsons,33,19,Girls Just Shauna Have Fun,7.8
+The Simpsons,33,20,Marge the Meanie,8
+The Simpsons,33,21,Meat Is Murder,7.8
+The Simpsons,33,22,Poorhouse Rock,7.8
+The Simpsons,34,1,Habeas Tortoise,8.1
+The Simpsons,34,2,One Angry Lisa,7.1
+The Simpsons,34,3,Lisa the Boy Scout,7.5
+The Simpsons,34,4,The King of Nice,7.1
+The Simpsons,34,5,Treehouse of Horror Presents Not It,7.7
+The Simpsons,34,6,Treehouse of Horror XXXIII,8.4
+The Simpsons,34,7,From Beer to Paternity,7.5
+The Simpsons,34,8,Step Brother from the Same Planet,7.1
+The Simpsons,34,9,When Nelson Met Lisa,6.6
+The Simpsons,34,10,Game Done Changed,7.5
+The Simpsons,34,11,Top Goon,7.4
+The Simpsons,34,12,My Life as a Vlog,6.5
+The Simpsons,34,13,The Many Saints of Springfield,7.5
+The Simpsons,34,14,Carl Carlson Rides Again,7.2
+The Simpsons,34,15,Bartless,7.7
+The Simpsons,34,16,Hostile Kirk Place,6.9
+The Simpsons,34,17,Pin Gal,7.1
+The Simpsons,34,18,Fan-ily Feud,7.7
+The Simpsons,34,19,Write Off This Episode,7.5
+The Simpsons,34,20,The Very Hungry Caterpillars,7.4
+The Simpsons,34,21,Clown V. Board of Education,7.1
+The Simpsons,34,22,Homer's Adventures Through the Windshield Glass,6.4
+The Simpsons,35,1,Homer's Crossing,8.3
+The Simpsons,35,2,A Mid-Childhood Night's Dream,8.2
+The Simpsons,35,3,McMansion & Wife,8.2
+The Simpsons,35,4,Thirst Trap: A Corporate Love Story,6.9
+The Simpsons,35,5,Treehouse of Horror XXXIV,7.6
+The Simpsons,35,6,Iron Marge,8.3
+The Simpsons,35,7,It's a Blunderful Life,8
+The Simpsons,35,8,Ae Bonny Romance,8.2
+The Simpsons,35,9,"Murder, She Boat",7.8
+The Simpsons,35,10,Do The Wrong Thing,8.1
+The Simpsons,35,11,Frinkenstein's Monster,8
+The Simpsons,35,12,Lisa Gets an F1,7.6
+The Simpsons,35,13,Clan of the Cave Mom,7.6
+The Simpsons,35,14,Night of the Living Wage,8.2
+The Simpsons,35,15,Cremains of the Day,8.2
+The Simpsons,35,16,The Tell-Tale Pants,8.3
+The Simpsons,35,17,The Tipping Point,7.8
+The Simpsons,35,18,Bart's Brain,7.9
+The Simpsons,36,1,Bart's Birthday,8
+The Simpsons,36,2,The Yellow Lotus,7.6
+The Simpsons,36,3,Desperately Seeking Lisa,7.1
+The Simpsons,36,4,Shoddy Heat,7.8
+The Simpsons,36,5,Treehouse of Horror XXXV,8
+The Simpsons,36,6,Women in Shorts,7.3
+The Simpsons,36,7,Treehouse of Horror Presents: Simpsons Wicked This Way Comes,8.4
+The Simpsons,36,8,Convenience Airways,8.1
+The Simpsons,36,9,Homer and Her Sisters,7.3
+The Simpsons,36,10,The Man Who Flew Too Much,7.5
+The Simpsons,36,11,Bottle Episode,8
+The Simpsons,36,12,The Flandshees of Innersimpson,7.3
+The Simpsons,36,13,The Last Man Expanding,7.6
+The Simpsons,36,14,P.S. I Hate You,8.2
+The Simpsons,36,15,Abe League of Their Moe,7.4
+The Simpsons,36,16,Stew Lies,7.9
+The Simpsons,36,17,"Full Heart, Empty Pool",7.6
+The Simpsons,36,18,Estranger Things,8.4
+The Simpsons,37,1,Thrifty Ways to Thieve Your Mother,7.7
+The Simpsons,37,2,Keep Chalm and Gary On,7.8
+The Simpsons,37,3,Treehouse of Horror XXXVI,7.1
+The Simpsons,37,4,Men Behaving Manly,5.3
+The Simpsons,37,5,Bad Boys... For Life?,7.8
+The Simpsons,37,6,Bart 'N' Frink,8.2
+The Simpsons,37,7,Sashes to Sashes,7.3
+The Simpsons,37,8,The Day of the Jack-up,8
+The Simpsons,37,9,Aunt Misbehavin',7.8
+The Simpsons,37,10,Guess Who's Coming to Skinner,7.2
+The Simpsons,37,11,Parahormonal Activity,8
+The Simpsons,37,12,¡The Fall Guy-Yi-Yi!,7.3
+The Simpsons,37,13,Seperance,8.5
+The Simpsons,37,14,Irrational Treasure,8
+The Simpsons,37,15,Homer? A Cracker Bro?,7.7
