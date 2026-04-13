@@ -58,14 +58,14 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 
 ### 🔗 Relationships (Days 13–18)
 
-| Day |  Date  | Prompt              | Chart | Data | Status |
-| :-: | :----: | :------------------ | :---- | :--- | :----: |
-| 13  | Apr 13 | **Ecosystems**      |       |      |   ⬜   |
-| 14  | Apr 14 | **Trade**           |       |      |   ⬜   |
-| 15  | Apr 15 | **Correlation**     |       |      |   ⬜   |
-| 16  | Apr 16 | **Causation**       |       |      |   ⬜   |
-| 17  | Apr 17 | **Remake**          |       |      |   ⬜   |
-| 18  | Apr 18 | **UNICEF Data Day** |       |      |   ⬜   |
+| Day |  Date  | Prompt              | Chart      | Data                                                                              | Status |
+| :-: | :----: | :------------------ | :--------- | :-------------------------------------------------------------------------------- | :----: |
+| 13  | Apr 13 | **Ecosystems**      | Dot Matrix | [World Bank / IUCN Red List](https://data.worldbank.org/) · Threatened species    |   ✅   |
+| 14  | Apr 14 | **Trade**           |            |                                                                                   |   ⬜   |
+| 15  | Apr 15 | **Correlation**     |            |                                                                                   |   ⬜   |
+| 16  | Apr 16 | **Causation**       |            |                                                                                   |   ⬜   |
+| 17  | Apr 17 | **Remake**          |            |                                                                                   |   ⬜   |
+| 18  | Apr 18 | **UNICEF Data Day** |            |                                                                                   |   ⬜   |
 
 ### 🌐 Timeseries (Days 19–24)
 
