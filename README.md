@@ -47,14 +47,14 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 
 ### 📊 Distributions (Days 7–12)
 
-| Day |  Date  | Prompt                    | Chart     | Data                                                                                                   | Status |
-| :-: | :----: | :------------------------ | :-------- | :----------------------------------------------------------------------------------------------------- | :----: |
-| 07  | Apr 07 | **Multiscale**            | Ridgeline | [Global Carbon Project](https://github.com/owid/co2-data) · CO2 per capita by income                   |   ✅   |
-| 08  | Apr 08 | **Circular**              | Polar Bar | [IMD via data.gov.in](https://data.gov.in/catalog/rainfall-india) · Subdivision rainfall (4 regions)   |   ✅   |
-| 09  | Apr 09 | **Wealth**                | Scatter   | [UBS Global Wealth Databook 2023](https://en.wikipedia.org/wiki/List_of_countries_by_wealth_per_adult) · Median wealth per adult                       |   ✅   |
-| 10  | Apr 10 | **Pop Culture**           | Raincloud | [TVMaze API](https://www.tvmaze.com/api) · IMDb viewer ratings                                         |   ✅   |
-| 11  | Apr 11 | **Physical**              | Circle Pack | [GEM 2024 (UNITAR/ITU)](https://globalewaste.org/map/) · E-waste generation, top 50 countries          |   ✅   |
-| 12  | Apr 12 | **FlowingData Theme Day** |           |                                                                                                        |   ⬜   |
+| Day |  Date  | Prompt                    | Chart       | Data                                                                                                         | Status |
+| :-: | :----: | :------------------------ | :---------- | :----------------------------------------------------------------------------------------------------------- | :----: |
+| 07  | Apr 07 | **Multiscale**            | Ridgeline   | [Global Carbon Project](https://github.com/owid/co2-data) · CO2 per capita by income                        |   ✅   |
+| 08  | Apr 08 | **Circular**              | Polar Bar   | [IMD via data.gov.in](https://data.gov.in/catalog/rainfall-india) · Subdivision rainfall (4 regions)        |   ✅   |
+| 09  | Apr 09 | **Wealth**                | Scatter     | [UBS Wealth Databook 2023](https://w.wiki/DRbm) · Median wealth per adult, 164 countries                    |   ✅   |
+| 10  | Apr 10 | **Pop Culture**           | Raincloud   | [TVMaze API](https://www.tvmaze.com/api) · IMDb viewer ratings                                              |   ✅   |
+| 11  | Apr 11 | **Physical**              | Circle Pack | [GEM 2024 (UNITAR/ITU)](https://globalewaste.org/map/) · E-waste generation, top 50                         |   ✅   |
+| 12  | Apr 12 | **FlowingData Theme Day** | Stacked Bar | [GEM 2024 (UNITAR/ITU)](https://globalewaste.org/map/) · E-waste recycling gap, top 25                      |   ✅   |
 
 ### 🔗 Relationships (Days 13–18)
 

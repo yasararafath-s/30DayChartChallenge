@@ -1,51 +1,51 @@
-country,region,amount_mt,iso3
-China,Asia,12.07,CHN
-USA,Americas,6.92,USA
-India,Asia,4.14,IND
-Japan,Asia,2.64,JPN
-Brazil,Americas,2.44,BRA
-Russia,Europe,1.91,RUS
-Indonesia,Asia,1.89,IDN
-Germany,Europe,1.77,DEU
-UK,Europe,1.65,GBR
-Turkey,Asia,1.56,TUR
-Mexico,Americas,1.50,MEX
-France,Europe,1.45,FRA
-Vietnam,Asia,1.36,VNM
-Italy,Europe,1.12,ITA
-Thailand,Asia,1.09,THA
-Spain,Europe,0.94,ESP
-South Korea,Asia,0.93,KOR
-Iran,Asia,0.82,IRN
-Canada,Americas,0.77,CAN
-Egypt,Africa,0.69,EGY
-Saudi Arabia,Asia,0.62,SAU
-Australia,Oceania,0.58,AUS
-Pakistan,Asia,0.56,PAK
-Philippines,Asia,0.54,PHL
-Argentina,Americas,0.52,ARG
-Poland,Europe,0.52,POL
-Nigeria,Africa,0.50,NGA
-Malaysia,Asia,0.41,MYS
-Ukraine,Europe,0.40,UKR
-Colombia,Americas,0.39,COL
-Netherlands,Europe,0.39,NLD
-Bangladesh,Asia,0.37,BGD
-South Africa,Africa,0.37,ZAF
-Algeria,Africa,0.33,DZA
-Venezuela,Americas,0.29,VEN
-Iraq,Asia,0.27,IRQ
-Belgium,Europe,0.25,BEL
-Romania,Europe,0.25,ROU
-Chile,Americas,0.23,CHL
-Peru,Americas,0.22,PER
-Sweden,Europe,0.22,SWE
-Switzerland,Europe,0.20,CHE
-Kazakhstan,Asia,0.20,KAZ
-Greece,Europe,0.19,GRC
-Portugal,Europe,0.18,PRT
-UAE,Asia,0.18,ARE
-Morocco,Africa,0.18,MAR
-Austria,Europe,0.18,AUT
-Sri Lanka,Asia,0.18,LKA
-Czech Republic,Europe,0.17,CZE
+"country","region","amount_mt","iso3"
+"China","Asia",12.07,"CHN"
+"United States","Americas",7.19,"USA"
+"India","Asia",4.14,"IND"
+"Japan","Asia",2.64,"JPN"
+"Brazil","Americas",2.44,"BRA"
+"Russia","Europe",1.91,"RUS"
+"Indonesia","Asia",1.89,"IDN"
+"Germany","Europe",1.77,"DEU"
+"United Kingdom","Europe",1.65,"GBR"
+"Mexico","Americas",1.5,"MEX"
+"France","Europe",1.45,"FRA"
+"Italy","Europe",1.12,"ITA"
+"Turkey","Asia",1.08,"TUR"
+"Spain","Europe",0.94,"ESP"
+"South Korea","Asia",0.93,"KOR"
+"Iran","Asia",0.82,"IRN"
+"Canada","Americas",0.77,"CAN"
+"Thailand","Asia",0.75,"THA"
+"Egypt","Africa",0.69,"EGY"
+"Saudi Arabia","Asia",0.62,"SAU"
+"Australia","Oceania",0.58,"AUS"
+"Pakistan","Asia",0.56,"PAK"
+"Philippines","Asia",0.54,"PHL"
+"South Africa","Africa",0.53,"ZAF"
+"Argentina","Americas",0.52,"ARG"
+"Poland","Europe",0.52,"POL"
+"Vietnam","Asia",0.52,"VNM"
+"Nigeria","Africa",0.5,"NGA"
+"Taiwan","Asia",0.46,"TWN"
+"Malaysia","Asia",0.41,"MYS"
+"Colombia","Americas",0.39,"COL"
+"Netherlands","Europe",0.39,"NLD"
+"Ukraine","Europe",0.38,"UKR"
+"Bangladesh","Asia",0.37,"BGD"
+"Algeria","Africa",0.33,"DZA"
+"Venezuela","Americas",0.3,"VEN"
+"Iraq","Asia",0.27,"IRQ"
+"Belgium","Europe",0.25,"BEL"
+"Romania","Europe",0.25,"ROU"
+"Chile","Americas",0.23,"CHL"
+"Peru","Americas",0.22,"PER"
+"Sweden","Europe",0.22,"SWE"
+"Switzerland","Europe",0.2,"CHE"
+"Kazakhstan","Asia",0.2,"KAZ"
+"Greece","Europe",0.19,"GRC"
+"Portugal","Europe",0.18,"PRT"
+"United Arab Emirates","Asia",0.18,"ARE"
+"Morocco","Africa",0.18,"MAR"
+"Austria","Europe",0.17,"AUT"
+"Sri Lanka","Asia",0.17,"LKA"
