@@ -64,7 +64,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 14  | Apr 14 | **Trade**           | Bump Chart | [World Bank](https://data.worldbank.org/indicator/NE.EXP.GNFS.CD) · Top exporters |   ✅   |
 | 15  | Apr 15 | **Correlation**     | Scatter    | [World Bank](https://data.worldbank.org/) · Env. stress vs life expectancy        |   ✅   |
 | 16  | Apr 16 | **Causation**       | Area       | [UNEP via OWID](https://ourworldindata.org/ozone-layer) · ODS consumption         |   ✅   |
-| 17  | Apr 17 | **Remake**          |            |                                                                                   |   ⬜   |
+| 17  | Apr 17 | **Remake**          | Stripes    | [NASA GISTEMP v4](https://data.giss.nasa.gov/gistemp/) · Global temp 1880–2025    |   ✅   |
 | 18  | Apr 18 | **UNICEF Data Day** |            |                                                                                   |   ⬜   |
 
 ### 🌐 Timeseries (Days 19–24)
