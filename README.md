@@ -71,7 +71,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 
 | Day |  Date  | Prompt                                 | Chart | Data | Status |
 | :-: | :----: | :------------------------------------- | :---- | :--- | :----: |
-| 19  | Apr 19 | **Evolution**                          |       |      |   ⬜   |
+| 19  | Apr 19 | **Evolution**                          | Line  | [OWID](https://ourworldindata.org/grapher/global-plastics-production) · Plastics 1950–2019 |   ✅   |
 | 20  | Apr 20 | **Global Change**                      |       |      |   ⬜   |
 | 21  | Apr 21 | **Historical**                         |       |      |   ⬜   |
 | 22  | Apr 22 | **New Tool**                           |       |      |   ⬜   |
