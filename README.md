@@ -65,7 +65,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 15  | Apr 15 | **Correlation**     | Scatter    | [World Bank](https://data.worldbank.org/) · Env. stress vs life expectancy        |   ✅   |
 | 16  | Apr 16 | **Causation**       | Area       | [UNEP via OWID](https://ourworldindata.org/ozone-layer) · ODS consumption         |   ✅   |
 | 17  | Apr 17 | **Remake**          | Stripes    | [NASA GISTEMP v4](https://data.giss.nasa.gov/gistemp/) · Global temp 1880–2025    |   ✅   |
-| 18  | Apr 18 | **UNICEF Data Day** |            |                                                                                   |   ⬜   |
+| 18  | Apr 18 | **UNICEF Data Day** | Choropleth | [UNICEF & Pure Earth](https://leadpollution.org) · Childhood lead exposure (BLL>5)|   ✅   |
 
 ### 🌐 Timeseries (Days 19–24)
 
