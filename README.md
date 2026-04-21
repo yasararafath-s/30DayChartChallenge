@@ -73,7 +73,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | :-: | :----: | :------------------------------------- | :---- | :--- | :----: |
 | 19  | Apr 19 | **Evolution**                          | Line  | [OWID](https://ourworldindata.org/grapher/global-plastics-production) · Plastics 1950–2019 |   ✅   |
 | 20  | Apr 20 | **Global Change**                      | Connected scatter | [OWID](https://ourworldindata.org/grapher/solar-pv-prices) · Solar PV cost & capacity 2000–2024 |   ✅   |
-| 21  | Apr 21 | **Historical**                         |       |      |   ⬜   |
+| 21  | Apr 21 | **Historical**                         | Step chart | [NOAA/WDS Paleo](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=noaa-icecore-6177) · [McConnell & Edwards 2008, PNAS](https://doi.org/10.1073/pnas.0803564105) · Arctic Pb pollution 1772–2003 |   ✅   |
 | 22  | Apr 22 | **New Tool**                           |       |      |   ⬜   |
 | 23  | Apr 23 | **Seasons**                            |       |      |   ⬜   |
 | 24  | Apr 24 | **South China Morning Post Theme Day** |       |      |   ⬜   |
