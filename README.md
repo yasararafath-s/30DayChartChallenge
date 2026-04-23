@@ -75,7 +75,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 20  | Apr 20 | **Global Change**                      | Connected scatter | [OWID](https://ourworldindata.org/grapher/solar-pv-prices) · Solar PV cost & capacity 2000–2024 |   ✅   |
 | 21  | Apr 21 | **Historical**                         | Step chart | [NOAA/WDS Paleo](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=noaa-icecore-6177) · [McConnell & Edwards 2008, PNAS](https://doi.org/10.1073/pnas.0803564105) · Arctic Pb pollution 1772–2003 |   ✅   |
 | 22  | Apr 22 | **New Tool**                           | Animated Line | [NOAA LSA](https://www.star.nesdis.noaa.gov/socd/lsa/SeaLevelRise/) · Global mean sea level 1993–2026 |   ✅   |
-| 23  | Apr 23 | **Seasons**                            |       |      |   ⬜   |
+| 23  | Apr 23 | **Seasons**                            | Heatmap Grid | [Aono & Kazui (2008)](https://doi.org/10.1002/joc.1594) · [GitHub](https://github.com/Ryo-N7/sakura_bloom) + JMA · Kyoto cherry bloom 812–2024 |   ✅   |
 | 24  | Apr 24 | **South China Morning Post Theme Day** |       |      |   ⬜   |
 
 ### ❓ Uncertainties (Days 25–30)
