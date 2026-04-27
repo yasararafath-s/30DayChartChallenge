@@ -84,7 +84,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | :-: | :----: | :--------------------------------------- | :---- | :--- | :----: |
 | 25  | Apr 25 | **Space**                                | Hexbin | [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) · Confirmed exoplanets — orbital period, radius (5,498 planets) | ✅ |
 | 26  | Apr 26 | **Trend**                                | Ribbon + Bar | [Berkeley Earth](https://berkeleyearth.org/data/) · Land/Ocean temperature anomaly 1850–2024 with 95% CI | ✅ |
-| 27  | Apr 27 | **Animation**                            |       |      |   ⬜   |
+| 27  | Apr 27 | **Animation**                            | Bar Chart Race | [Our World in Data](https://ourworldindata.org/grapher/global-energy-substitution) · EI Statistical Review 2025 + Smil 2017 · Global energy mix 1800–2024 (substitution method, 10 fuels) | ✅ |
 | 28  | Apr 28 | **Modeling**                             |       |      |   ⬜   |
 | 29  | Apr 29 | **Monochrome**                           |       |      |   ⬜   |
 | 30  | Apr 30 | **Global Health Data Exchange Data Day** |       |      |   ⬜   |
