@@ -83,7 +83,7 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | Day |  Date  | Prompt                                   | Chart | Data | Status |
 | :-: | :----: | :--------------------------------------- | :---- | :--- | :----: |
 | 25  | Apr 25 | **Space**                                | Hexbin | [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) · Confirmed exoplanets — orbital period, radius (5,498 planets) | ✅ |
-| 26  | Apr 26 | **Trend**                                |       |      |   ⬜   |
+| 26  | Apr 26 | **Trend**                                | Ribbon + Bar | [Berkeley Earth](https://berkeleyearth.org/data/) · Land/Ocean temperature anomaly 1850–2024 with 95% CI | ✅ |
 | 27  | Apr 27 | **Animation**                            |       |      |   ⬜   |
 | 28  | Apr 28 | **Modeling**                             |       |      |   ⬜   |
 | 29  | Apr 29 | **Monochrome**                           |       |      |   ⬜   |
