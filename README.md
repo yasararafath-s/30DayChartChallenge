@@ -85,9 +85,9 @@ I'm using **R** and **ggplot2** as my main tools, pulling data mostly from open 
 | 25  | Apr 25 | **Space**                                | Hexbin | [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) · Confirmed exoplanets — orbital period, radius (5,498 planets) | ✅ |
 | 26  | Apr 26 | **Trend**                                | Ribbon + Bar | [Berkeley Earth](https://berkeleyearth.org/data/) · Land/Ocean temperature anomaly 1850–2024 with 95% CI | ✅ |
 | 27  | Apr 27 | **Animation**                            | Bar Chart Race | [Our World in Data](https://ourworldindata.org/grapher/global-energy-substitution) · EI Statistical Review 2025 + Smil 2017 · Global energy mix 1800–2024 (substitution method, 10 fuels) | ✅ |
-| 28  | Apr 28 | **Modeling**                             |       |      |   ⬜   |
-| 29  | Apr 29 | **Monochrome**                           |       |      |   ⬜   |
-| 30  | Apr 30 | **Global Health Data Exchange Data Day** |       |      |   ⬜   |
+| 28  | Apr 28 | **Modeling**                             | Fan chart | [UN WPP 2024](https://population.un.org/wpp/) · World population probabilistic projections to 2100 (median + 80 % & 95 % PI) |   ✅   |
+| 29  | Apr 29 | **Monochrome**                           | Dot grid  | [IUCN Red List](https://www.iucnredlist.org/) + 2024 species-specific census reports · 9 critically endangered land vertebrates, one dot per individual |   ✅   |
+| 30  | Apr 30 | **Global Health Data Exchange Data Day** | Bump chart | [IHME GBD 2021](https://www.healthdata.org/research-analysis/gbd) · Top global causes of DALYs, 2010 / 2020 / 2021 |   ✅   |
 
 > ⬜ Not started · 🟡 In progress · ✅ Done
 
