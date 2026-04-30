@@ -1,0 +1,12 @@
+cause,short_label,category,years
+Enteric infections,Enteric infections,CMNN,1.12
+Lower respiratory infections,Lower respiratory infections,CMNN,0.90
+Stroke,Stroke,NCD,0.72
+Other communicable diseases,Other communicable diseases,CMNN,0.62
+Cancer,Cancer,NCD,0.57
+Ischemic heart disease,Ischaemic heart disease,NCD,0.56
+Neonatal disorders,Neonatal disorders,CMNN,0.55
+Tuberculosis,Tuberculosis,CMNN,0.52
+Other gains (10 smaller causes),Other smaller gains,Other,2.57
+Other pandemic-related mortality,Other pandemic-related mortality,CMNN,-0.52
+COVID-19,COVID-19,CMNN,-1.60
